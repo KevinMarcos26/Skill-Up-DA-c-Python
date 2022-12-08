@@ -6,79 +6,20 @@ from airflow import DAG
 from airflow.decorators import task
 from airflow.operators.python import PythonOperator
 
-from datetime import datetime, timedelta
-from helper_functions import logger_setup
-from helper_functions.extracting import extraction
-from helper_functions.transforming import transformer
+from datetime import datetime
+from datetime import timedelta
+from plugins.helper_functions import logger_setup
+from plugins.helper_functions.extracting import extraction
+from plugins.helper_functions.loader import Loader
 import pandas as pd
-#asd
-def transform(database_path_csv:str) -> pd.DataFrame:
-
-    DataLocationPostal_Code = open('../assets/codigos_postales.csv', 'r')  #abrir csv codigos postales y guardarlos
-    data_path=open('../files/{}'.format(database_path_csv), encoding="utf8")
-
-
-    data=pd.read_csv(data_path)
-    dataLocation = pd.read_csv(DataLocationPostal_Code)    # leer y guardar en DataFrame los codigos postales y guardarlos en dataframe
-    dataLocation = dataLocation.rename(columns={'localidad': 'location',
-                                                'codigo_postal': 'postal_code'})  # Transformo los nombres de la columnas del cdv de codigos_postales
-    dataLocation['location'] = dataLocation[
-        'location'].str.lower()  # Transformo los valores de localidad de codigos postales
-
-
-    for col in data.columns:  # convertimos todo a minusculas
-        if data[col].dtype == 'object':
-            data[col] = (data[col].str.lower()
-                         .str.replace('-', ' ')  # reemplazamos los guiones internos por espacios para separar palabras
-                         .str.replace('_', ' ')  # reemplazamos los guiones internos por espacios para separar palabras
-                         .str.lstrip('-')  # sacamos guiones al inicio
-                         .str.rstrip('-'))  # sacamos guiones al final
-
-    data.first_name = (data.first_name
-                  .str.split('-')  # separo por -
-                  .apply(lambda x: " ".join(x))  # uno la lista con espacios
-                  .str.split('\.', n=1)  # separo todas aquellas ocurrencias que contengan . como dr., ms., etc
-                  .apply(
-        lambda x: x[1] if len(x) >= 2 else x)  # me quedo con el segundo elemento si la lista tiene un largo mayor a 2
-                  .apply(
-        lambda x: "".join(x) if type(x) == list else x)  # convierto a string los elementos de tipo lista
-                  .str.strip()
-                  )
-    data.gender = data.loc[:, ['gender']].replace('m', 'male').replace('f', 'female')
-
-    nom_apell = (data.first_name
-                 .str.rsplit(expand=True, n=1)
-                 .rename(columns={0: 'first_name', 1: 'last_name'}))
-                 
-    data[['first_name','last_name']] = nom_apell
-    data.inscription_date = pd.to_datetime(data.inscription_date, infer_datetime_format=True)
-
-    for data in [data]:
-        data.age = pd.to_datetime(data.age , infer_datetime_format=True)
-        age = data.age.apply(
-        lambda x: dt.date.today().year - x.year - ((dt.date.today().month, dt.date.today().day) < (x.month, x.day)))
-        data['age'] = age
-
-    if 'location' in data.columns:  # Agrego las columnas postal_code o location
-
-        data = data.merge(dataLocation, how='inner', on='location', copy=False, suffixes=('X', ''))
-    else:
-        data['postal_code'] = data['postal_code'].astype(int).replace('.0','')
-        data = data.merge(dataLocation, how='inner', on='postal_code', copy=False, suffixes=('X', ''))
-    
-
-
-    data = data.loc[:,~data.columns.str.contains('X')]# drop columna vacía
-
-    data.to_csv('./datasets/jujuy.txt', header=None, index=None, sep=' ', mode='a')
-
-    return data
-
-
-
 
 # Universidad
 university = 'GrupoC_jujuy_universidad'
+date_format = '%Y-%m-%d'
+
+# Conexion AWS
+aws_conn = 'aws_s3_bucket'
+dest_bucket = 'alkemy26'
 
 # Default args de airflow
 default_args = {
@@ -92,7 +33,7 @@ default_args = {
 # Configuracion del logger
 logger = logger_setup.logger_creation(university)
 
-# Funciones de python
+# ----------------- Funciones de python ---------------------
 
 #Extraccion de datos
 
@@ -104,6 +45,46 @@ def extract():
     except Exception as e:
         logger.error(e)
 
+#Transformación de datos
+
+def transform():
+    logger.info('Inicio de proceso de transformación')
+    df = pd.read_csv(f'files/{university}_select.csv')
+    # GenderParsing
+    df['gender'] = df['gender'].str.lower()
+    df.gender.replace(['m', 'f'], ['male', 'female'], inplace=True)
+    # Formato de fecha
+    columns_to_transform = ['inscription_date', 'birth_date']
+    for column in columns_to_transform:
+        df[column] = pd.to_datetime(df[column], format=date_format)
+        df.style.format({column: lambda t: t.strftime("%d-%m-%Y")}) 
+        if date_format == '%y-%b-%d':
+            df[column].where(df[column] < pd.Timestamp.now(), df[column] - pd.DateOffset(years=100), inplace=True)
+    # Calculo de edad        
+    today = pd.Timestamp.now()      
+    df['age'] = df['birth_date'].apply(
+               lambda x: today.year - x.year - 
+               ((today.month, today.day) < (x.month, x.day))
+               )
+    postal_df = pd.read_csv(f"./assets/codigos_postales.csv")
+    postal_df['localidad'] = postal_df['localidad'].str.lower()
+
+    if df['postal_code'].isnull().values.any():
+        df.drop(['postal_code'],axis=1,inplace=True)
+        df = df.merge(postal_df, how='left', left_on='location', right_on='localidad')
+        df.rename(columns = {'codigo_postal':'postal_code'}, inplace = True)
+        df = df.drop_duplicates(['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'location', 'email']).reset_index()
+    else:
+        df.drop(['location'], axis=1, inplace=True)
+        df = df.merge(postal_df, how='left', left_on='postal_code', right_on='codigo_postal')
+        df.rename(columns = {'localidad':'location'}, inplace = True)                   
+    logger.info('Guardando dataset en txt...')
+    df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
+    df.to_csv(f'./datasets/{university}_process.txt', index=False, sep='\t')
+    logger.info('Dataset guardado correctamente.')
+      
+    return df
+
 # Definimos el DAG
 with DAG(f'{university}_dag_etl',
          default_args=default_args,
@@ -113,6 +94,11 @@ with DAG(f'{university}_dag_etl',
     
     extraccion = PythonOperator(task_id = 'extraccion', python_callable=extract)
     
-    transformacion = PythonOperator(task_id = 'transform', python_callable=transform, args='files/GrupoC_jujuy_universidad_select.csv')
+    transformacion = PythonOperator(task_id = 'transform', python_callable=transform)
 
-    extraccion
+    @task()
+    def load(**kwargd):
+        df_loader = Loader(university, logger=logger, S3_ID=aws_conn, dest_bucket=dest_bucket)
+        df_loader.to_load()
+
+    extraccion >> transformacion >> load()

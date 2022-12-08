@@ -6,11 +6,14 @@ from datetime import datetime as dt
 from datetime import timedelta
 from plugins.helper_functions import logger_setup
 from plugins.helper_functions.extracting import extraction
+from plugins.helper_functions.transformer import Transformer
 from plugins.helper_functions.loader import Loader
 import pandas as pd
+import numpy as np
 
 # Universidad
 university = 'GrupoC_palermo_universidad'
+date_format = '%Y-%m-%d'
 
 # Conexion AWS
 aws_conn = 'aws_s3_bucket'
@@ -43,55 +46,54 @@ def extract():
 #Transformación de datos
 
 def transform():
-    logger.info('Inicio de proceso de transformación')
-    DataLocationPostal_Code = open('./assets/codigos_postales.csv', 'r')  #abrir csv codigos postales y guardarlos
-    data=pd.read_csv(f'files/{university}_select.csv', index_col=0)
-    dataLocation = pd.read_csv(DataLocationPostal_Code)    # leer y guardar en DataFrame los codigos postales y guardarlos en dataframe
-    dataLocation['location'] = dataLocation['location'].str.lower()  # Transformo los valores de localidad de codigos postales
-
-    for col in data.columns:  # convertimos todo a minusculas
-        if data[col].dtype == 'object':
-            data[col] = (data[col].str.lower()
-                         .str.replace('-', ' ')  # reemplazamos los guiones internos por espacios para separar palabras
-                         .str.replace('_', ' ')  # reemplazamos los guiones internos por espacios para separar palabras
-                         .str.lstrip('-')  # sacamos guiones al inicio
-                         .str.rstrip('-'))  # sacamos guiones al final
-    data.first_name = (data.first_name
-                  .str.split('-')  # separo por -
-                  .apply(lambda x: " ".join(x))  # uno la lista con espacios
-                  .str.split('\.', n=1)  # separo todas aquellas ocurrencias que contengan . como dr., ms., etc
-                  .apply(
-        lambda x: x[1] if len(x) >= 2 else x)  # me quedo con el segundo elemento si la lista tiene un largo mayor a 2
-                  .apply(
-        lambda x: "".join(x) if type(x) == list else x)  # convierto a string los elementos de tipo lista
-                  .str.strip()
-                  )
-    data.gender = data.loc[:, ['gender']].replace('m', 'male').replace('f', 'female')
-
-    nom_apell = (data.first_name
-                 .str.rsplit(expand=True, n=1)
-                 .rename(columns={0: 'first_name', 1: 'last_name'}))
-                 
-    data[['first_name','last_name']] = nom_apell
-    data.inscription_date = pd.to_datetime(data.inscription_date, infer_datetime_format=True)
-
-    for data in [data]:
-        data.age = pd.to_datetime(data.age , infer_datetime_format=True)
-        age = data.age.apply(
-        lambda x: dt.date.today().year - x.year - ((dt.date.today().month, dt.date.today().day) < (x.month, x.day)))
-        data['age'] = age
-
-    if 'location' in data.columns:  # Agrego las columnas postal_code o location
-        data = data.merge(dataLocation, how='inner', on='location', copy=False, suffixes=('X', ''))
-    else:
-        data['postal_code'] = data['postal_code'].astype(int).replace('.0','')
-        data = data.merge(dataLocation, how='inner', on='postal_code', copy=False, suffixes=('X', ''))
+    logger.info('Iniciando proceso de transformación')
+    df = pd.read_csv(f'files/{university}_select.csv', index_col=0)
+    df['university'] = df['university'].str.lower().str.replace('_',' ').str.strip()
+    df['career'] = df['career'].str.lower().str.replace('_',' ').str.strip()
+    df['first_name'] = df['first_name'].str.lower().str.replace('_',' ').str.strip().str.replace('(m[r|s]|[.])|(\smd\s)', '', regex=True)
+    df['email'] = df['email'].str.lower().str.replace('_',' ').str.strip()
+    df['gender'] = df['gender'].map({'F': 'female', 'M': 'male'})
+    df['inscription_date'] = df['inscription_date']
+    df['birth_date'] = pd.to_datetime(df['birth_date'])
     
-    data = data.loc[:,~data.columns.str.contains('X')]# drop columna vacía
-    logger.info('Guardando dataset en txt...')
-    data.to_csv(f'./datasets/{university}_process.txt', header=None, index=None, sep=' ', mode='a')
-    logger.info('Dataset guardado correctamente.')  
-    return data        
+    today = dt.now()
+    
+    df['age'] = np.floor((today - df['birth_date']).dt.days / 365)
+    df['age'] = df['age'].apply(lambda x: x if (x > 18.0) and (x < 80) else -1)
+    df['age'] = np.where(df['age']== -1, 21, df['age'])
+    df['age'] = df['age'].astype(int)
+    
+    df = df.drop(columns='birth_date')
+    
+    dfCod = pd.read_csv('./assets/codigos_postales.csv',sep=',')
+    dfCod = dfCod.drop_duplicates(['localidad'], keep='last')
+        
+    dfC = df['postal_code']
+    dfL = df['location']
+    dfC = dfC.dropna()
+    dfL = dfL.dropna()
+    TamC = dfC.size
+    TamL = dfL.size
+
+    if TamL == 0:
+            df = pd.merge(df,dfCod,left_on='postal_code',right_on='codigo_postal')
+            del df['codigo_postal']
+            del df['location']
+            df = df.rename(columns={'localidad':'location'})
+
+    if TamC == 0:
+            df = pd.merge(df,dfCod,left_on='location',right_on='localidad')
+            del df['localidad']
+            del df['postal_code']
+            df = df.rename(columns={'codigo_postal':'postal_code'})
+    
+    
+    df = df[['university', 'career', 'inscription_date', 'first_name', 'gender', 'age', 'postal_code', 'location', 'email']]
+    
+    df.to_csv(f'./datasets/{university}_process.txt', sep='\t', index=False)
+    
+    logger.info("Datos transformados satisfactoramiente")
+
 
 # Definimos el DAG
 with DAG(f'{university}_dag_etl',

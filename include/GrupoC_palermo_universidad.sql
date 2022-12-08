@@ -5,7 +5,8 @@ SELECT
 		names AS first_name, 
 		NULL AS last_name, 
 		sexo AS gender, 
-		birth_dates AS age, 
+		birth_dates AS birth_date,
+		NULL AS age, 
 		codigo_postal AS postal_code, 
 		NULL AS LOCATION, 
 		correos_electronicos AS email
