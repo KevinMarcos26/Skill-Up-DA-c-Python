@@ -72,7 +72,7 @@ universidad nacional de tres de febrero	actuario	2021-01-14	zoe gutierrez		30	26
 universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de alimentos	2021-01-09	nicole wright		21	2643	CAFFERATA	andrew71@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias geológicas	2021-01-05	robert hall		21	2643	CAFFERATA	xgomez@gmail.com
 universidad nacional de tres de febrero	licenciatura en artes	2021-01-04	margaret garcia		21	8512	IGARZABAL	michelle68@gmail.com
-universidad nacional de tres de febrero	contador público	2021-01-17	anne jackson		22	8512	IGARZABAL	james72@gmail.com
+universidad nacional de tres de febrero	contador público	2021-01-17	anne jackson		23	8512	IGARZABAL	james72@gmail.com
 universidad nacional de tres de febrero	licenciatura en administración	2021-01-28	patrick casey		21	1667	MANUEL ALBERTI	wrightmary@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias de la computación	2021-01-17	nicole parker		21	1667	MANUEL ALBERTI	carrie10@yahoo.com
 universidad nacional de tres de febrero	licenciatura en planificación y diseño del paisaje	2021-01-10	susan evans		31	1667	MANUEL ALBERTI	bethnolan@gmail.com
@@ -676,7 +676,7 @@ universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2
 universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de alimentos	2021-01-26	eric mccarthy phd		21	1895	ARTURO SEGUI	tiffanyclarke@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencia política	2021-01-18	madison bailey		43	1895	ARTURO SEGUI	smithronald@gmail.com
 universidad nacional de tres de febrero	licenciatura en musicoterapia	2021-01-06	rick allison		21	8214	COLONIA CAZAUX	dale07@gmail.com
-universidad nacional de tres de febrero	licenciatura en psicología	2021-01-24	ruth buck		44	8214	COLONIA CAZAUX	banderson@hotmail.com
+universidad nacional de tres de febrero	licenciatura en psicología	2021-01-24	ruth buck		45	8214	COLONIA CAZAUX	banderson@hotmail.com
 universidad nacional de tres de febrero	ciencias veterinarias	2021-01-05	mary larsen		21	8214	COLONIA CAZAUX	christopher45@hotmail.com
 universidad nacional de tres de febrero	ingeniería mecánica	2021-01-31	ryan richardson		21	8214	COLONIA CAZAUX	vbarton@gmail.com
 universidad nacional de tres de febrero	farmacia	2021-01-20	kevin morgan		36	8214	COLONIA CAZAUX	michael42@hotmail.com
@@ -940,9 +940,9 @@ universidad nacional de tres de febrero	licenciatura en ciencias geológicas	202
 universidad nacional de tres de febrero	diseño industrial	2021-01-17	jonathan tran		23	5260	ACHERAL	dominguezdanny@hotmail.com
 universidad nacional de tres de febrero	medicina	2021-01-16	james durham		31	5260	ACHERAL	michaelmitchell@yahoo.com
 universidad nacional de tres de febrero	licenciatura en administración	2021-01-26	rachel watkins		21	5260	ACHERAL	nicholasle@gmail.com
-universidad nacional de tres de febrero	contador público	2021-01-15	chad erickson		30	5260	ACHERAL	jacquelinetapia@yahoo.com
+universidad nacional de tres de febrero	contador público	2021-01-15	chad erickson		31	5260	ACHERAL	jacquelinetapia@yahoo.com
 universidad nacional de tres de febrero	licenciatura en administración	2021-01-23	wendy taylor		31	5544	GOBERNADOR BENEGAS	kwilson@gmail.com
-universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2021-01-20	alexis buck		37	5544	GOBERNADOR BENEGAS	wrightolivia@gmail.com
+universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2021-01-20	alexis buck		38	5544	GOBERNADOR BENEGAS	wrightolivia@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias geológicas	2021-01-21	tyler clark		21	5544	GOBERNADOR BENEGAS	zgomez@gmail.com
 universidad nacional de tres de febrero	licenciatura en producción de bioimagenes	2021-01-06	gary allen		21	5544	GOBERNADOR BENEGAS	allisondiaz@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias antropológicas	2021-01-09	debra hall		21	6325	COLONIA DEVOTO	bpeterson@yahoo.com
@@ -1709,7 +1709,7 @@ universidad nacional de tres de febrero	licenciatura en ciencias biológicas	202
 universidad nacional de tres de febrero	contador público	2021-01-27	jimmy ross		21	1921	ALVAREZ JONTE	aaron71@yahoo.com
 universidad nacional de tres de febrero	licenciatura en ciencias geológicas	2021-01-02	joseph gibson		21	1921	ALVAREZ JONTE	anne90@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias biológicas	2021-01-14	 carlos poole		21	6646	COLONIA SAN EDUARDO	pacemary@gmail.com
-universidad nacional de tres de febrero	licenciatura en producción de bioimagenes	2021-01-24	emily watson		41	5575	ANDRADE	jimrobinson@gmail.com
+universidad nacional de tres de febrero	licenciatura en producción de bioimagenes	2021-01-24	emily watson		42	5575	ANDRADE	jimrobinson@gmail.com
 universidad nacional de tres de febrero	licenciatura en artes	2021-01-31	jamie andrews		21	5575	ANDRADE	zsmith@gmail.com
 universidad nacional de tres de febrero	actuario	2021-01-27	richard lynch		21	5575	ANDRADE	larrysilva@yahoo.com
 universidad nacional de tres de febrero	ingeniería mecánica	2021-01-26	kathleen wilson		21	5753	AGUA LINDA	pearsontimothy@hotmail.com
@@ -2082,7 +2082,7 @@ universidad nacional de tres de febrero	licenciatura en ciencias de la educació
 universidad nacional de tres de febrero	licenciatura en ciencias biológicas	2021-01-21	kyle perry		21	1618	RICARDO ROJAS	ssingleton@yahoo.com
 universidad nacional de tres de febrero	farmacia	2021-01-12	katelyn mason		21	1618	RICARDO ROJAS	karen29@hotmail.com
 universidad nacional de tres de febrero	ingeniería mecánica	2021-01-23	kelly bennett		21	1618	RICARDO ROJAS	joydean@yahoo.com
-universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2021-01-09	roger espinoza		26	1618	RICARDO ROJAS	gouldjamie@gmail.com
+universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2021-01-09	roger espinoza		27	1618	RICARDO ROJAS	gouldjamie@gmail.com
 universidad nacional de tres de febrero	licenciatura en musicoterapia	2021-01-23	vincent harrison		21	5595	CUPILES	rachel24@yahoo.com
 universidad nacional de tres de febrero	licenciatura en terapia ocupacional	2021-01-29	katelyn hawkins		25	5595	CUPILES	hugheskathryn@yahoo.com
 universidad nacional de tres de febrero	licenciatura en ciencia política	2021-01-07	mark brown		31	1828	BANFIELD	michaelheath@gmail.com
@@ -2678,7 +2678,7 @@ universidad nacional de tres de febrero	ingeniería mecánica	2021-01-15	vincent
 universidad nacional de tres de febrero	licenciatura en producción de bioimagenes	2021-01-13	susan reyes		21	1633	EMPALME	ahughes@gmail.com
 universidad nacional de tres de febrero	contador público	2021-01-04	daniel lewis		21	1633	EMPALME	lsteele@yahoo.com
 universidad nacional de tres de febrero	ingeniería en informática	2021-01-16	lisa stevens		21	1854	LONGCHAMPS	savageamanda@hotmail.com
-universidad nacional de tres de febrero	agronomía	2021-01-21	craig smith		21	1854	LONGCHAMPS	nshort@yahoo.com
+universidad nacional de tres de febrero	agronomía	2021-01-21	craig smith		22	1854	LONGCHAMPS	nshort@yahoo.com
 universidad nacional de tres de febrero	técnico para bioterios	2021-01-07	chad melendez		21	7517	JUAN E BARRA	iblair@hotmail.com
 universidad nacional de tres de febrero	licenciatura en terapia ocupacional	2021-01-10	david martinez		21	7517	JUAN E BARRA	yolandamitchell@gmail.com
 universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2021-01-19	courtney navarro		48	7517	JUAN E BARRA	msummers@gmail.com
