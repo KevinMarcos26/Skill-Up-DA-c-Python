@@ -49,7 +49,7 @@ def transform():
         df['career'] = df['career'].str.lower().str.replace('_',' ').str.strip()
         df['first_name'] = df['first_name'].str.lower().str.replace('_',' ').str.strip().str.replace('(m[r|s]|[.])|(\smd\s)', '', regex=True)
         df['email'] = df['email'].str.lower().str.replace('_',' ').str.strip()
-        df['gender'] = df['gender'].map({'F': 'female', 'M': 'male'})
+        df['gender'] = df['gender'].map({'f': 'female', 'm': 'male'})
         df['inscription_date'] = df['inscription_date']
         df['birth_date'] = pd.to_datetime(df['birth_date'])
         
