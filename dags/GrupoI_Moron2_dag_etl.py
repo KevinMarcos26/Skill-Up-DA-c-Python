@@ -3,9 +3,9 @@ from airflow.decorators import task
 from airflow.providers.amazon.aws.transfers.local_to_s3 import LocalFilesystemToS3Operator
 
 from datetime import datetime
-from helper_functions import logger_setup
-from helper_functions.utils import *
-from helper_functions.extracting import extraction
+from plugins.helper_functions import logger_setup
+from plugins.helper_functions.utils import *
+from plugins.helper_functions.extracting import extraction
 import pandas as pd
 
 

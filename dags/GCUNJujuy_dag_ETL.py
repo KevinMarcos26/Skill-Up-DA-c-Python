@@ -48,42 +48,44 @@ def extract():
 #Transformación de datos
 
 def transform():
-    logger.info('Inicio de proceso de transformación')
-    df = pd.read_csv(f'files/{university}_select.csv')
-    # GenderParsing
-    df['gender'] = df['gender'].str.lower()
-    df.gender.replace(['m', 'f'], ['male', 'female'], inplace=True)
-    # Formato de fecha
-    columns_to_transform = ['inscription_date', 'birth_date']
-    for column in columns_to_transform:
-        df[column] = pd.to_datetime(df[column], format=date_format)
-        df.style.format({column: lambda t: t.strftime("%d-%m-%Y")}) 
-        if date_format == '%y-%b-%d':
-            df[column].where(df[column] < pd.Timestamp.now(), df[column] - pd.DateOffset(years=100), inplace=True)
-    # Calculo de edad        
-    today = pd.Timestamp.now()      
-    df['age'] = df['birth_date'].apply(
-               lambda x: today.year - x.year - 
-               ((today.month, today.day) < (x.month, x.day))
-               )
-    postal_df = pd.read_csv(f"./assets/codigos_postales.csv")
-    postal_df['localidad'] = postal_df['localidad'].str.lower()
+    try:
+        logger.info('Inicio de proceso de transformación')
+        df = pd.read_csv(f'files/{university}_select.csv')
+        # GenderParsing
+        df['gender'] = df['gender'].str.lower()
+        df.gender.replace(['m', 'f'], ['male', 'female'], inplace=True)
+        # Formato de fecha
+        columns_to_transform = ['inscription_date', 'birth_date']
+        for column in columns_to_transform:
+            df[column] = pd.to_datetime(df[column], format=date_format)
+            df.style.format({column: lambda t: t.strftime("%d-%m-%Y")}) 
+            if date_format == '%y-%b-%d':
+                df[column].where(df[column] < pd.Timestamp.now(), df[column] - pd.DateOffset(years=100), inplace=True)
+        # Calculo de edad        
+        today = pd.Timestamp.now()      
+        df['age'] = df['birth_date'].apply(
+                lambda x: today.year - x.year - 
+                ((today.month, today.day) < (x.month, x.day))
+                )
+        postal_df = pd.read_csv(f"./assets/codigos_postales.csv")
+        postal_df['localidad'] = postal_df['localidad'].str.lower()
 
-    if df['postal_code'].isnull().values.any():
-        df.drop(['postal_code'],axis=1,inplace=True)
-        df = df.merge(postal_df, how='left', left_on='location', right_on='localidad')
-        df.rename(columns = {'codigo_postal':'postal_code'}, inplace = True)
-        df = df.drop_duplicates(['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'location', 'email']).reset_index()
-    else:
-        df.drop(['location'], axis=1, inplace=True)
-        df = df.merge(postal_df, how='left', left_on='postal_code', right_on='codigo_postal')
-        df.rename(columns = {'localidad':'location'}, inplace = True)                   
-    logger.info('Guardando dataset en txt...')
-    df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
-    df.to_csv(f'./datasets/{university}_process.txt', index=False, sep='\t')
-    logger.info('Dataset guardado correctamente.')
-      
-    return df
+        if df['postal_code'].isnull().values.any():
+            df.drop(['postal_code'],axis=1,inplace=True)
+            df = df.merge(postal_df, how='left', left_on='location', right_on='localidad')
+            df.rename(columns = {'codigo_postal':'postal_code'}, inplace = True)
+            df = df.drop_duplicates(['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'location', 'email']).reset_index()
+        else:
+            df.drop(['location'], axis=1, inplace=True)
+            df = df.merge(postal_df, how='left', left_on='postal_code', right_on='codigo_postal')
+            df.rename(columns = {'localidad':'location'}, inplace = True)                   
+        logger.info('Guardando dataset en txt...')
+        df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
+        df.to_csv(f'./datasets/{university}_process.txt', index=False, sep='\t')
+        logger.info('Dataset guardado correctamente.')
+    except Exception as e:
+        logger.info('ERROR al transformar los datos')
+        logger.error(e)
 
 # Definimos el DAG
 with DAG(f'{university}_dag_etl',

@@ -188,7 +188,7 @@ universidad tecnológica nacional	licenciatura en producción de bioimagenes	202
 universidad tecnológica nacional	agronomía	2020-12-04	rebecca soto		female	62	2603	chapuy	ethomas@hotmail.com
 universidad tecnológica nacional	licenciatura en administración 	2021-01-26	amy ross		female	85	8313	arroyito	anitawilson@gmail.com
 universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-09-06	micheal richardson		male	87	3524	el campamento	sandersdouglas@gmail.com
-universidad tecnológica nacional	licenciatura en musicoterapia	2020-12-31	richard johnston		male	43	7500	el carretero	alyssapratt@hotmail.com
+universidad tecnológica nacional	licenciatura en musicoterapia	2020-12-31	richard johnston		male	44	7500	el carretero	alyssapratt@hotmail.com
 universidad tecnológica nacional	ingeniería electrónica	2021-01-13	john moore		male	26	8124	berraondo	andreacrawford@hotmail.com
 universidad tecnológica nacional	farmacia	2020-10-23	scott may		male	97	1854	longchamps	roblesvictoria@hotmail.com
 universidad tecnológica nacional	bioquímica	2020-12-16	jennifer wilson		female	87	6346	pellegrini	ysmith@hotmail.com
@@ -519,7 +519,7 @@ universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	202
 universidad tecnológica nacional	licenciatura en producción de bioimagenes	2020-12-21	carlos downs		male	115	2115	colonia valdez	fsanchez@yahoo.com
 universidad tecnológica nacional	técnico para bioterios 	2020-09-22	lori collins		female	67	5709	bañadito viejo	morenowendy@yahoo.com
 universidad tecnológica nacional	diseño industrial	2021-01-18	joshua lawrence		male	50	2935	algarrobo	sarahpeterson@yahoo.com
-universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2020-09-09	joel garcia		male	45	3592	colonia hardy	stevensalexander@hotmail.com
+universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2020-09-09	joel garcia		male	46	3592	colonia hardy	stevensalexander@hotmail.com
 universidad tecnológica nacional	ingeniería electrónica	2020-11-27	elizabeth smith		female	104	3194	paso telegrafo	wilkinsonjoseph@gmail.com
 universidad tecnológica nacional	diseño de imagen y sonido	2020-09-02	jessica parsons		female	97	5519	alto de las arañas	moralesivan@hotmail.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2021-01-05	wesley bradley		male	17	3074	colonia el simbol	amy91@hotmail.com
@@ -1604,7 +1604,7 @@ universidad tecnológica nacional	bioquímica	2020-10-01	elizabeth winters		fema
 universidad tecnológica nacional	medicina	2020-10-01	gerald taylor		male	102	3428	estacion saladas	jenkinsvictoria@gmail.com
 universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2021-01-16	tiffany richardson		female	71	1718	san antonio de padua	pwilson@yahoo.com
 universidad tecnológica nacional	ingeniería mecánica	2020-10-21	monique dawson		female	81	1870	avellaneda	spencenicholas@hotmail.com
-universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2020-12-22	sean barnett		male	41	1661	bella vista	wrightstacy@gmail.com
+universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2020-12-22	sean barnett		male	42	1661	bella vista	wrightstacy@gmail.com
 universidad tecnológica nacional	arquitectura	2021-01-25	wesley jones		male	41	8417	cañadon chileno	michaelbrown@gmail.com
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-12-19	david jones		male	45	5549	agua de los manantiales	moorebarbara@gmail.com
 universidad tecnológica nacional	ingeniería electrónica	2020-10-06	sandy martin		female	73	7220	funke	sruiz@gmail.com
@@ -1625,7 +1625,7 @@ universidad tecnológica nacional	licenciatura en ciencias de la educación 	202
 universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2021-01-16	donna spence		female	16	2300	colonia bella italia	timothy68@yahoo.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-09-04	crystal santiago		female	48	2761	estancia santa catalina	james48@hotmail.com
 universidad tecnológica nacional	farmacia	2020-12-12	nicole goodman		female	91	2175	barlett	whitethomas@yahoo.com
-universidad tecnológica nacional	farmacia	2021-01-31	tammy hurst		female	8	2324	colonia tacurales	xrios@gmail.com
+universidad tecnológica nacional	farmacia	2021-01-31	tammy hurst		female	9	2324	colonia tacurales	xrios@gmail.com
 universidad tecnológica nacional	diseño de imagen y sonido	2021-01-07	william york		male	91	8124	berraondo	huntthomas@hotmail.com
 universidad tecnológica nacional	licenciatura en sociología 	2020-10-02	brian cardenas		male	8	8403	alicura	jennifer44@hotmail.com
 universidad tecnológica nacional	arquitectura	2020-09-23	susan may		female	44	5341	anillaco	ericalee@yahoo.com
