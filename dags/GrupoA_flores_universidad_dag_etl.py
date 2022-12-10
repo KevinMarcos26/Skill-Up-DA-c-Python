@@ -46,12 +46,13 @@ with DAG(f'{university}_dag_etl',
         df = pd.read_csv('files/GrupoA_flores_universidad_select.csv', index_col=0)
         df['university'] = df['university'].str.lower().str.replace('_',' ').str.strip()
         df['career'] = df['career'].str.lower().str.replace('_',' ').str.strip()
-        df['first_name'] = df['first_name'].str.lower().str.replace('_',' ').str.strip().str.replace('(m[r|s]|[.])|(\smd\s)', '', regex=True)
+        df['first_name'] = df['first_name'].str.replace('-', ' ').str.strip().str.lower()
         df['email'] = df['email'].str.lower().str.replace('_',' ').str.strip()
         df['gender'] = df['gender'].map({'F': 'female', 'M': 'male'})
         df['inscription_date'] = pd.to_datetime(df['inscription_date'], format='%Y/%m/%d')
         df['fecha_nacimiento'] = pd.to_datetime(df['fecha_nacimiento'])
-        
+        df[['first_name', 'last_name']] = df['first_name'].str.split(" ", n = 1, expand=True)
+
         today = datetime.now()
         
         df['age'] = np.floor((today - df['fecha_nacimiento']).dt.days / 365)
@@ -84,7 +85,7 @@ with DAG(f'{university}_dag_etl',
                 df = df.rename(columns={'codigo_postal':'postal_code'})
         
         
-        df = df[['university', 'career', 'inscription_date', 'first_name', 'gender', 'age', 'postal_code', 'location', 'email']]
+        df = df[['university', 'career', 'inscription_date', 'first_name','last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
         
         df.to_csv('./datasets/GrupoA_flores_universidad_process.txt', sep='\t', index=False)
         
