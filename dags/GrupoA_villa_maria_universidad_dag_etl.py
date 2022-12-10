@@ -102,7 +102,7 @@ with DAG(f'{university}_dag_etl',
     extract() >> transform() >> load()
 
 with DAG(
-    "GrupoA_flores_universidad_dag_etl",
+    "GrupoA_villa_maria_universidad_dag_etl",
     start_date=datetime(2022, 12, 4),
     schedule_interval="@hourly",
     default_args={
