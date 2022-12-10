@@ -95,7 +95,7 @@ with DAG(f'{university}_dag_etl',
 
             df.university = df.university.astype(str)
             df.career = df.career.astype(str)
-            df.first_name = df.first_name.astype(str)
+            df['first_name'] = df['first_name'].str.replace('-', ' ').str.strip().str.lower()
             df.location = df.location.astype(str)
             df.email = df.email.astype(str)
 
@@ -104,7 +104,7 @@ with DAG(f'{university}_dag_etl',
 
             df.university = df.university.str.lower()
             df.career = df.career.str.lower()
-            df.first_name = df.first_name.str.lower()
+            df[['first_name', 'last_name']] = df['first_name'].str.split(" ", n = 1, expand=True)
             df.location = df.location.str.lower()
             df.email = df.email.str.lower()
 
@@ -113,6 +113,7 @@ with DAG(f'{university}_dag_etl',
                         "career",
                         "inscription_date",
                         "first_name",
+                        "last_name",
                         "gender",
                         "age",
                         "postal_code",
@@ -134,7 +135,7 @@ with DAG(f'{university}_dag_etl',
     extract() >> transform() >> load()
 
 with DAG(
-    "GrupoA_flores_universidad_dag_etl",
+    "GrupoB_salvador_universidad_dag_etl",
     start_date=datetime(2022, 12, 4),
     schedule_interval="@hourly",
     default_args={
