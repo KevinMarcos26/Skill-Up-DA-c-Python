@@ -48,6 +48,7 @@ def extract():
 def transform():
     logger.info('Iniciando proceso de transformación')
     df = pd.read_csv(f'files/{university}_select.csv', index_col=0)
+
     df['university'] = df['university'].str.lower().str.replace('_',' ').str.strip()
     df['career'] = df['career'].str.lower().str.replace('_',' ').str.strip()
     df['first_name'] = df['first_name'].str.lower().str.replace('_',' ').str.strip().str.replace('(m[r|s]|[.])|(\smd\s)', '', regex=True)
@@ -56,8 +57,13 @@ def transform():
     df['inscription_date'] = df['inscription_date']
     df['birth_date'] = pd.to_datetime(df['birth_date'])
     
+    #Separar first_name y last_name
+    for i, name in enumerate(list(df['first_name'])):
+        name = name.split(sep=' ')
+        df.loc[i,'first_name'] = name[0]
+        df.loc[i,'last_name'] = name[1]
+
     today = dt.now()
-    
     df['age'] = np.floor((today - df['birth_date']).dt.days / 365)
     df['age'] = df['age'].apply(lambda x: x if (x > 18.0) and (x < 80) else -1)
     df['age'] = np.where(df['age']== -1, 21, df['age'])
@@ -88,7 +94,7 @@ def transform():
             df = df.rename(columns={'codigo_postal':'postal_code'})
     
     
-    df = df[['university', 'career', 'inscription_date', 'first_name', 'gender', 'age', 'postal_code', 'location', 'email']]
+    df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
     
     df.to_csv(f'./datasets/{university}_process.txt', sep='\t', index=False)
     

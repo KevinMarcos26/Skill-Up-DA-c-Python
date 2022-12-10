@@ -51,6 +51,13 @@ def transform():
     try:
         logger.info('Inicio de proceso de transformación')
         df = pd.read_csv(f'files/{university}_select.csv')
+        
+        #Separar first_name y last_name
+        for i, name in enumerate(list(df['first_name'])):
+            name = name.split(sep=' ')
+            df.loc[i,'first_name'] = name[0]
+            df.loc[i,'last_name'] = name[1]
+
         # GenderParsing
         df['gender'] = df['gender'].str.lower()
         df.gender.replace(['m', 'f'], ['male', 'female'], inplace=True)
@@ -79,6 +86,7 @@ def transform():
             df.drop(['location'], axis=1, inplace=True)
             df = df.merge(postal_df, how='left', left_on='postal_code', right_on='codigo_postal')
             df.rename(columns = {'localidad':'location'}, inplace = True)                   
+        
         logger.info('Guardando dataset en txt...')
         df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
         df.to_csv(f'./datasets/{university}_process.txt', index=False, sep='\t')

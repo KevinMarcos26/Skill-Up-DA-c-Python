@@ -46,9 +46,17 @@ def transform():
     try:
         logger.info('Inicio de proceso de transformación')
         df = pd.read_csv(f'files/{university}_select.csv')
+
+        #Separar first_name y last_name
+        for i, name in enumerate(list(df['first_name'])):
+            name = name.split(sep=' ')
+            df.loc[i,'first_name'] = name[0]
+            df.loc[i,'last_name'] = name[1]
+
         # GenderParsing
         df['gender'] = df['gender'].str.lower()
         df.gender.replace(['m', 'f'], ['male', 'female'], inplace=True)
+
         # Formato de fecha
         columns_to_transform = ['inscription_date', 'birth_date']
         for column in columns_to_transform:
@@ -56,6 +64,7 @@ def transform():
             df.style.format({column: lambda t: t.strftime("%d-%m-%Y")}) 
             if date_format == '%y-%b-%d':
                 df[column].where(df[column] < pd.Timestamp.now(), df[column] - pd.DateOffset(years=100), inplace=True)
+        
         # Calculo de edad        
         today = pd.Timestamp.now()      
         df['age'] = df['birth_date'].apply(
