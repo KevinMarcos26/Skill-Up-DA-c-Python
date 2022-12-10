@@ -84,7 +84,7 @@ with DAG(f'{university}_dag_etl',
                 df = df.rename(columns={'codigo_postal':'postal_code'})
         
         
-        df = df[['university', 'career', 'inscription_date', 'first_name', 'gender', 'age', 'postal_code', 'location', 'email']]
+        df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
         
         df.to_csv(f'./datasets/{university}_process.txt', sep='\t', index=False)
         
