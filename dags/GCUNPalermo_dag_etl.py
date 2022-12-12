@@ -54,7 +54,6 @@ def transform():
     df['first_name'] = df['first_name'].str.lower().str.replace('_',' ').str.strip().str.replace('(m[r|s]|[.])|(\smd\s)', '', regex=True)
     df['email'] = df['email'].str.lower().str.replace('_',' ').str.strip()
     df['gender'] = df['gender'].map({'f': 'female', 'm': 'male'})
-    df['inscription_date'] = df['inscription_date']
     df['birth_date'] = pd.to_datetime(df['birth_date'])
     
     #Separar first_name y last_name
@@ -71,31 +70,22 @@ def transform():
     
     df = df.drop(columns='birth_date')
     
-    dfCod = pd.read_csv('./assets/codigos_postales.csv',sep=',')
-    dfCod = dfCod.drop_duplicates(['localidad'], keep='last')
-        
-    dfC = df['postal_code']
-    dfL = df['location']
-    dfC = dfC.dropna()
-    dfL = dfL.dropna()
-    TamC = dfC.size
-    TamL = dfL.size
-
-    if TamL == 0:
-            df = pd.merge(df,dfCod,left_on='postal_code',right_on='codigo_postal')
-            del df['codigo_postal']
-            del df['location']
-            df = df.rename(columns={'localidad':'location'})
-
-    if TamC == 0:
-            df = pd.merge(df,dfCod,left_on='location',right_on='localidad')
-            del df['localidad']
-            del df['postal_code']
-            df = df.rename(columns={'codigo_postal':'postal_code'})
+    # Postal codes - Localidades
+    postal_df = pd.read_csv(f"./assets/codigos_postales.csv")
+    postal_df['localidad'] = postal_df['localidad'].str.lower()
     
-    
+    if df['postal_code'].isnull().values.any():
+        df.drop(['postal_code'],axis=1,inplace=True)
+        df = df.merge(postal_df, how='left', left_on='location', right_on='localidad')
+        df.rename(columns = {'codigo_postal':'postal_code'}, inplace = True)
+        df = df.drop_duplicates(['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'location', 'email']).reset_index()
+    else:
+        df.drop(['location'], axis=1, inplace=True)
+        df = df.merge(postal_df, how='left', left_on='postal_code', right_on='codigo_postal')
+        df.rename(columns = {'localidad':'location'}, inplace = True) 
+
+    logger.info('Guardando dataset en txt...')
     df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
-    
     df.to_csv(f'./datasets/{university}_process.txt', sep='\t', index=False)
     
     logger.info("Datos transformados satisfactoramiente")
