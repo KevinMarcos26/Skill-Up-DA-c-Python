@@ -71,6 +71,7 @@ def transform():
                 lambda x: today.year - x.year - 
                 ((today.month, today.day) < (x.month, x.day))
                 )
+        # Postal Codes - Localidades    
         postal_df = pd.read_csv(f"./assets/codigos_postales.csv")
         postal_df['localidad'] = postal_df['localidad'].str.lower()
 
@@ -82,7 +83,8 @@ def transform():
         else:
             df.drop(['location'], axis=1, inplace=True)
             df = df.merge(postal_df, how='left', left_on='postal_code', right_on='codigo_postal')
-            df.rename(columns = {'localidad':'location'}, inplace = True)                   
+            df.rename(columns = {'localidad':'location'}, inplace = True)  
+
         logger.info('Guardando dataset en txt...')
         df = df[['university', 'career', 'inscription_date', 'first_name', 'last_name', 'gender', 'age', 'postal_code', 'location', 'email']]
         df.to_csv(f'./datasets/{university}_process.txt', index=False, sep='\t')
