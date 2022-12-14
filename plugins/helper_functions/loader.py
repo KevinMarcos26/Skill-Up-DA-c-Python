@@ -23,7 +23,7 @@ class Loader:
 
         s3_hook.load_file(
             self.path + self.key,
-            key=self.key,
+            key=f'dinamico/{self.key}',
             bucket_name=self.dest_bucket,
             replace=True,
             encrypt=False,
