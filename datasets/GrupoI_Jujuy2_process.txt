@@ -107,7 +107,7 @@ universidad nacional de jujuy	licenciatura en ciencia política 	2019-12-25	john
 universidad nacional de jujuy	farmacia	2019-10-02	gabriela	willis	female	100	aguada de las tejas	robertslinda@gmail.com	9121
 universidad nacional de jujuy	licenciatura en artes	2019-11-24	gabriella	santos	female	93	aguada de las tejas	manueltyler@yahoo.com	9121
 universidad nacional de jujuy	ingeniería electrónica	2019-12-06	scott	smith	male	105	aguada de las tejas	matthewschristine@hotmail.com	9121
-universidad nacional de jujuy	farmacia	2020-05-09	richard	smith	male	32	aguada de las tejas	carlos54@gmail.com	9121
+universidad nacional de jujuy	farmacia	2020-05-09	richard	smith	male	33	aguada de las tejas	carlos54@gmail.com	9121
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2019-12-02	kathy	peters	female	94	aguada de las tejas	kmays@yahoo.com	9121
 universidad nacional de jujuy	ingeniería mecánica	2019-11-05	anthony	martin	male	61	estacion coronel pringles	omartin@gmail.com	7536
 universidad nacional de jujuy	medicina	2020-05-13	judith	phillips	female	102	estacion coronel pringles	allenjames@gmail.com	7536
@@ -120,7 +120,7 @@ universidad nacional de jujuy	licenciatura en ciencias geológicas	2020-03-02	bo
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-06-09	tricia	downs	female	25	carcaraña	nguyencrystal@yahoo.com	2138
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-02-17	james	blake	male	57	carcaraña	kschroeder@hotmail.com	2138
 universidad nacional de jujuy	ciencias veterinarias	2019-10-11	david	lewis	male	58	carcaraña	pmoore@gmail.com	2138
-universidad nacional de jujuy	diseño de imagen y sonido	2020-05-21	courtney	walker	female	14	carcaraña	zramirez@hotmail.com	2138
+universidad nacional de jujuy	diseño de imagen y sonido	2020-05-21	courtney	walker	female	15	carcaraña	zramirez@hotmail.com	2138
 universidad nacional de jujuy	arquitectura	2020-05-24	julie	ponce	female	76	carcaraña	tonyanash@gmail.com	2138
 universidad nacional de jujuy	licenciatura en sociología 	2020-06-05	joanna	smith	female	34	agua negra	deanstephanie@hotmail.com	4101
 universidad nacional de jujuy	licenciatura en sociología 	2020-06-05	joanna	smith	female	34	agua negra	deanstephanie@hotmail.com	4512
@@ -350,7 +350,7 @@ universidad nacional de jujuy	licenciatura en ciencia política 	2020-03-08	jane
 universidad nacional de jujuy	licenciatura en artes	2019-11-23	christina	lester	female	61	cataratas del iguazu	bellsara@hotmail.com	3372
 universidad nacional de jujuy	diseño de imagen y sonido	2020-02-26	melissa	cochran	female	64	cataratas del iguazu	dmack@gmail.com	3372
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2019-12-11	michael smith	dds	male	65	cataratas del iguazu	joseph44@hotmail.com	3372
-universidad nacional de jujuy	técnico para bioterios 	2020-07-20	chelsea	richards	female	80	cataratas del iguazu	dfoster@yahoo.com	3372
+universidad nacional de jujuy	técnico para bioterios 	2020-07-20	chelsea	richards	female	81	cataratas del iguazu	dfoster@yahoo.com	3372
 universidad nacional de jujuy	licenciatura en psicología	2020-01-10	mark	bowers	male	83	cataratas del iguazu	adamjackson@hotmail.com	3372
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-05-21	ashley	gonzales	female	82	ayacucho	nsmith@hotmail.com	7150
 universidad nacional de jujuy	agronomía	2019-11-22	deborah	logan	female	44	ayacucho	maria54@yahoo.com	7150
@@ -535,7 +535,7 @@ universidad nacional de jujuy	licenciatura en ciencias de la educación 	2019-10
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-03-12	alexander	noble	male	50	colonia centenario	amy16@hotmail.com	3109
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2019-10-08	james ryan	md	male	35	colonia rusa	ksmith@yahoo.com	8332
 universidad nacional de jujuy	licenciatura en ciencias antropológicas	2019-10-01	melissa	perez	female	78	colonia rusa	vmiller@gmail.com	8332
-universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-07-29	kimberly	hartman	female	89	barrancon	michaelcontreras@hotmail.com	3384
+universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-07-29	kimberly	hartman	female	90	barrancon	michaelcontreras@hotmail.com	3384
 universidad nacional de jujuy	medicina	2020-02-17	mary	wiggins	female	10	barrancon	karenmartinez@gmail.com	3384
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2019-11-20	william	brown	male	94	barrancon	jameswolf@gmail.com	3384
 universidad nacional de jujuy	licenciatura en administración 	2020-06-18	jason	knapp	male	8	avenida ejercito parana	schneiderdonna@hotmail.com	3100
@@ -595,7 +595,7 @@ universidad nacional de jujuy	bioquímica	2020-01-09	marcus	chambers	male	8	acos
 universidad nacional de jujuy	bioquímica	2020-01-09	marcus	chambers	male	8	acostilla	jason99@gmail.com	4701
 universidad nacional de jujuy	diseño industrial	2019-10-09	crystal	harrison	female	27	acostilla	wilsonelizabeth@yahoo.com	4113
 universidad nacional de jujuy	diseño industrial	2019-10-09	crystal	harrison	female	27	acostilla	wilsonelizabeth@yahoo.com	4701
-universidad nacional de jujuy	licenciatura en administración 	2020-06-09	timothy	ware	male	14	caa yari	wrightkristin@hotmail.com	3315
+universidad nacional de jujuy	licenciatura en administración 	2020-06-09	timothy	ware	male	15	caa yari	wrightkristin@hotmail.com	3315
 universidad nacional de jujuy	licenciatura en kinesiología y fisiatría	2020-02-14	ryan	garcia	male	19	apeadero quiroga	ssingleton@yahoo.com	5427
 universidad nacional de jujuy	ingeniería electrónica	2020-01-16	donna lara	md	female	1	apeadero quiroga	jgarcia@yahoo.com	5427
 universidad nacional de jujuy	licenciatura en kinesiología y fisiatría	2020-02-24	wanda	cooper	female	32	apeadero quiroga	brian32@gmail.com	5427
@@ -742,7 +742,7 @@ universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-02
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-02-29	christopher	kelly	male	12	bella vista	jessicamack@yahoo.com	5381
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-02-29	christopher	kelly	male	12	bella vista	jessicamack@yahoo.com	5835
 universidad nacional de jujuy	licenciatura en ciencias antropológicas	2020-06-22	patricia	soto	female	45	11 de septiembre	steven27@yahoo.com	1657
-universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-02-27	rebecca	castillo	female	47	11 de septiembre	emccullough@yahoo.com	1657
+universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-02-27	rebecca	castillo	female	48	11 de septiembre	emccullough@yahoo.com	1657
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2020-07-20	stephanie	davis	female	22	11 de septiembre	jorge39@yahoo.com	1657
 universidad nacional de jujuy	contador público 	2020-02-25	jesus	beck	male	114	11 de septiembre	arobbins@gmail.com	1657
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2019-10-24	jackson	shelton	male	11	11 de septiembre	stephencruz@gmail.com	1657
@@ -972,7 +972,7 @@ universidad nacional de jujuy	licenciatura en musicoterapia	2019-10-23	denise	pe
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2020-05-15	mason	cook	male	84	colonia cunci	klee@gmail.com	3382
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-03-23	franklin	lewis	male	85	colonia cunci	codydelgado@yahoo.com	3382
 universidad nacional de jujuy	ingeniería en informática	2020-01-24	dillon	foster	male	63	colonia cunci	bhatfield@gmail.com	3382
-universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-03-10	jack	wiggins	male	113	la gama	angela58@hotmail.com	2615
+universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-03-10	jack	wiggins	male	114	la gama	angela58@hotmail.com	2615
 universidad nacional de jujuy	licenciatura en sociología 	2020-03-30	brittany	sanders	female	93	la gama	haroldpearson@gmail.com	2615
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-06-25	brandon	crosby	male	85	la gama	irivera@yahoo.com	2615
 universidad nacional de jujuy	licenciatura en psicología	2020-03-19	amber	calderon	female	5	agrio balsa	williamtate@yahoo.com	8351
@@ -1047,7 +1047,7 @@ universidad nacional de jujuy	bioquímica	2020-07-21	colton	harris	male	22	bocas
 universidad nacional de jujuy	técnico para bioterios 	2020-01-07	ian	thomas	male	109	isidro casanova	ithompson@gmail.com	1765
 universidad nacional de jujuy	ingeniería en informática	2020-07-24	tracy	kelley	female	29	isidro casanova	sholt@yahoo.com	1765
 universidad nacional de jujuy	licenciatura en psicología	2019-10-23	john	sellers	male	54	arroyo castillo	stacey37@yahoo.com	3460
-universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-01-06	jasmine	anderson	female	65	arroyo castillo	nchapman@hotmail.com	3460
+universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-01-06	jasmine	anderson	female	66	arroyo castillo	nchapman@hotmail.com	3460
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2019-12-17	michelle	mathews	female	2	arroyo castillo	hhoffman@gmail.com	3460
 universidad nacional de jujuy	actuario 	2020-05-07	daniel	brown	male	66	arroyo castillo	claytonjacqueline@hotmail.com	3460
 universidad nacional de jujuy	ciencias veterinarias	2020-06-05	jeffrey	silva	male	21	arroyo castillo	krodgers@gmail.com	3460
@@ -1339,7 +1339,7 @@ universidad nacional de jujuy	licenciatura en musicoterapia	2020-03-03	michael	l
 universidad nacional de jujuy	actuario 	2019-12-26	reginald	thomas	male	45	campo paletta	yvega@yahoo.com	2206
 universidad nacional de jujuy	licenciatura en ciencias de la computación	2020-05-14	michelle	nolan	female	89	hale	villanuevaphyllis@hotmail.com	6511
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2019-11-24	heidi	hill	female	108	hale	savila@gmail.com	6511
-universidad nacional de jujuy	licenciatura en ciencias biológicas	2019-10-09	rachel	arroyo	female	17	hale	milleralexis@gmail.com	6511
+universidad nacional de jujuy	licenciatura en ciencias biológicas	2019-10-09	rachel	arroyo	female	18	hale	milleralexis@gmail.com	6511
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2019-12-21	gene	moore	male	86	hale	thomassilva@gmail.com	6511
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-03-26	kevin	keller	male	116	hale	chendebra@yahoo.com	6511
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2020-05-22	brandon	williams	male	45	buena esperanza	howellamy@hotmail.com	6277
@@ -1768,7 +1768,7 @@ universidad nacional de jujuy	ciencias veterinarias	2019-12-30	eric	smith	male	3
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2019-11-10	larry	banks	male	66	arroyo burgos	proach@hotmail.com	3133
 universidad nacional de jujuy	licenciatura en administración 	2020-07-02	richard	wheeler	male	28	campamento sol	nicole76@gmail.com	8319
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2020-01-25	frank	brennan	male	59	algarrobal abajo	kayla21@yahoo.com	5541
-universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-02-22	curtis	pope	male	43	algarrobal abajo	hilljessica@yahoo.com	5541
+universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-02-22	curtis	pope	male	44	algarrobal abajo	hilljessica@yahoo.com	5541
 universidad nacional de jujuy	ingeniería mecánica	2019-11-07	melissa	perez	female	12	algarrobal abajo	ashleysmith@hotmail.com	5541
 universidad nacional de jujuy	ciencias veterinarias	2019-10-05	beth	strong	female	20	algarrobal abajo	orodriguez@gmail.com	5541
 universidad nacional de jujuy	licenciatura en psicología	2020-06-27	kristina	simpson	female	84	algarrobal abajo	ginageorge@gmail.com	5541
@@ -1830,8 +1830,8 @@ universidad nacional de jujuy	arquitectura	2019-11-08	vincent	wagner	male	95	col
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2019-12-28	victor	dawson	male	47	colonia los lapachos	iwoodard@yahoo.com	4606
 universidad nacional de jujuy	ciencias veterinarias	2019-12-09	abigail	coffey	female	90	colonia los lapachos	lunasandra@yahoo.com	4606
 universidad nacional de jujuy	ingeniería electrónica	2019-11-13	amanda	kim	female	10	colonia los lapachos	robertnguyen@gmail.com	4606
-universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-02-19	andrea	hill	female	113	alto del saladillo	tiffany31@hotmail.com	4500
-universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-02-19	andrea	hill	female	113	alto del saladillo	tiffany31@hotmail.com	4522
+universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-02-19	andrea	hill	female	114	alto del saladillo	tiffany31@hotmail.com	4500
+universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-02-19	andrea	hill	female	114	alto del saladillo	tiffany31@hotmail.com	4522
 universidad nacional de jujuy	licenciatura en sociología 	2020-04-19	latasha	arroyo	female	65	alto del saladillo	stevethomas@gmail.com	4500
 universidad nacional de jujuy	licenciatura en sociología 	2020-04-19	latasha	arroyo	female	65	alto del saladillo	stevethomas@gmail.com	4522
 universidad nacional de jujuy	arquitectura	2020-01-06	jeffery	ward	male	32	alto del saladillo	maddendavid@hotmail.com	4500
@@ -1851,7 +1851,7 @@ universidad nacional de jujuy	licenciatura en terapia ocupacional	2020-04-23	car
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2020-04-23	carlos	casey	male	23	arroyo hondo	kristinegarcia@yahoo.com	3216
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-01-18	jason	duke	male	22	barrancas coloradas	angela65@gmail.com	6300
 universidad nacional de jujuy	diseño industrial	2019-12-31	jessica	miller	female	23	barrancas coloradas	mitchell73@gmail.com	6300
-universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-05-01	amanda	salinas	female	69	barrancas coloradas	jayhuff@yahoo.com	6300
+universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-05-01	amanda	salinas	female	70	barrancas coloradas	jayhuff@yahoo.com	6300
 universidad nacional de jujuy	bioquímica	2020-03-25	kevin	rodriguez	male	23	la morocha	toddpatel@yahoo.com	2613
 universidad nacional de jujuy	ingeniería electrónica	2019-12-22	suzanne	thompson	female	25	la morocha	cruzkenneth@gmail.com	2613
 universidad nacional de jujuy	licenciatura en psicología	2020-04-24	john	espinoza	male	79	la morocha	teresarowe@gmail.com	2613
@@ -2066,7 +2066,7 @@ universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-04-
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-04-15	jennifer	quinn	female	38	cuartel iv	sharon42@gmail.com	7110
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-04-22	joanne	jennings	female	33	atahualpa	kevinsanchez@yahoo.com	6471
 universidad nacional de jujuy	medicina	2020-07-29	charles	carr	male	45	atahualpa	camposdesiree@hotmail.com	6471
-universidad nacional de jujuy	contador público 	2020-02-06	kevin	palmer	male	65	atahualpa	marcus55@gmail.com	6471
+universidad nacional de jujuy	contador público 	2020-02-06	kevin	palmer	male	66	atahualpa	marcus55@gmail.com	6471
 universidad nacional de jujuy	licenciatura en psicología	2020-06-02	meghan	hale	female	27	atahualpa	singletonlori@gmail.com	6471
 universidad nacional de jujuy	licenciatura en ciencia política 	2019-10-10	renee	berry	female	94	arbol solo	gcopeland@yahoo.com	3230
 universidad nacional de jujuy	licenciatura en ciencia política 	2019-10-10	renee	berry	female	94	arbol solo	gcopeland@yahoo.com	3513
@@ -2324,7 +2324,7 @@ universidad nacional de jujuy	diseño industrial	2019-12-19	allison	schmidt	fema
 universidad nacional de jujuy	diseño industrial	2019-12-19	allison	schmidt	female	28	caraguatay	patricknixon@hotmail.com	3557
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2020-07-20	chad	dickerson	male	46	colonia los sauces	jfranklin@hotmail.com	3200
 universidad nacional de jujuy	ingeniería mecánica	2020-04-29	kirk	bailey	male	72	colonia los sauces	jonessamantha@gmail.com	3200
-universidad nacional de jujuy	farmacia	2020-07-14	charles	brown	male	7	colonia los sauces	christophergordon@yahoo.com	3200
+universidad nacional de jujuy	farmacia	2020-07-14	charles	brown	male	8	colonia los sauces	christophergordon@yahoo.com	3200
 universidad nacional de jujuy	ingeniería mecánica	2020-01-24	sandra	davis	female	110	colonia los sauces	williamsalexander@yahoo.com	3200
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2019-11-03	donald	house	male	91	colonia los sauces	davidbrown@hotmail.com	3200
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2019-10-14	tracy	turner	female	115	colonia los sauces	danielle33@gmail.com	3200
@@ -2369,7 +2369,7 @@ universidad nacional de jujuy	diseño industrial	2020-02-16	stephanie	shields	fe
 universidad nacional de jujuy	licenciatura en psicología	2020-03-16	joshua	lowery	male	36	calderon	brian53@gmail.com	8101
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-01-31	joshua	duran	male	105	comandante granville	davisdanny@yahoo.com	5736
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2020-06-30	emily	sosa	female	107	apostoles	melissa42@yahoo.com	3350
-universidad nacional de jujuy	farmacia	2020-06-26	sarah	clark	female	49	apostoles	elliottkaren@hotmail.com	3350
+universidad nacional de jujuy	farmacia	2020-06-26	sarah	clark	female	50	apostoles	elliottkaren@hotmail.com	3350
 universidad nacional de jujuy	contador público 	2020-07-29	james	thornton	male	15	achiras	steven06@yahoo.com	3246
 universidad nacional de jujuy	licenciatura en sociología 	2019-10-15	robert gomez	dds	male	96	achiras	lambertmonica@yahoo.com	3246
 universidad nacional de jujuy	bioquímica	2020-07-30	michael	smith	male	33	francisco madero	qhenderson@yahoo.com	6472
@@ -2420,7 +2420,7 @@ universidad nacional de jujuy	licenciatura en planificación y diseño del paisa
 universidad nacional de jujuy	licenciatura en psicología	2019-12-24	danielle	white	female	46	angelica	wilsondeborah@hotmail.com	2303
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-04-11	rachel	ross	female	100	angelica	matthewbass@gmail.com	2303
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-04-24	john	stephens	male	58	angelica	reillyronald@gmail.com	2303
-universidad nacional de jujuy	ciencias veterinarias	2020-06-24	marcus	nguyen	male	102	angelica	jeffrey50@gmail.com	2303
+universidad nacional de jujuy	ciencias veterinarias	2020-06-24	marcus	nguyen	male	103	angelica	jeffrey50@gmail.com	2303
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-03-05	jason	moore	male	112	angelica	morrisonrodney@gmail.com	2303
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-02-07	david nguyen	md	male	80	aicuña	greendaisy@yahoo.com	5361
 universidad nacional de jujuy	diseño de imagen y sonido	2019-11-15	anthony	miller	male	56	aicuña	bushmelissa@gmail.com	5361
@@ -2471,7 +2471,7 @@ universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-04-22
 universidad nacional de jujuy	licenciatura en sociología 	2020-04-01	patrick	terry	male	86	campo aristimuño	abrowning@gmail.com	6474
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2019-10-10	heather	campbell	female	116	campo aristimuño	reneeweaver@hotmail.com	6474
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-04-24	marissa	allen	female	97	campo aristimuño	johnsonnicole@gmail.com	6474
-universidad nacional de jujuy	ingeniería mecánica	2020-01-11	jody	harrison	female	98	isla gran malvina	sawyerdeanna@yahoo.com	9409
+universidad nacional de jujuy	ingeniería mecánica	2020-01-11	jody	harrison	female	99	isla gran malvina	sawyerdeanna@yahoo.com	9409
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2019-11-22	sara	coleman	female	25	isla gran malvina	joseph56@gmail.com	9409
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-05-25	michael	patrick	male	112	buen retiro	hmelton@gmail.com	3222
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-07-03	erin	davis	female	84	buen retiro	kathleen02@hotmail.com	3222
@@ -2488,7 +2488,7 @@ universidad nacional de jujuy	licenciatura en ciencias biológicas	2019-12-04	ja
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-01-09	phillip	king	male	116	franklin	paige09@hotmail.com	6614
 universidad nacional de jujuy	ingeniería electrónica	2019-11-11	laura	hampton	female	25	franklin	teresajoseph@yahoo.com	6614
 universidad nacional de jujuy	diseño industrial	2020-01-23	wanda	garner	female	81	basail	yhale@hotmail.com	3516
-universidad nacional de jujuy	agronomía	2020-03-10	ryan	waller	male	101	basail	amymalone@gmail.com	3516
+universidad nacional de jujuy	agronomía	2020-03-10	ryan	waller	male	102	basail	amymalone@gmail.com	3516
 universidad nacional de jujuy	licenciatura en administración 	2020-06-11	monica	ford	female	35	basail	melanie78@hotmail.com	3516
 universidad nacional de jujuy	diseño industrial	2020-03-09	adam	harris	male	54	banda varela	herreravanessa@hotmail.com	4700
 universidad nacional de jujuy	actuario 	2020-03-10	larry	hill	male	71	banda varela	heathermiller@yahoo.com	4700
@@ -2522,7 +2522,7 @@ universidad nacional de jujuy	ingeniería electrónica	2020-07-15	robert	walton	
 universidad nacional de jujuy	licenciatura en psicología	2020-07-09	nathan	shannon	male	71	sey	timothysanders@hotmail.com	4411
 universidad nacional de jujuy	licenciatura en ciencias de la computación	2020-07-11	kristin	mason	female	52	bajo guazu	justincobb@yahoo.com	3421
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-01-25	michael	randolph	male	33	aldea brasilera	jeremy25@gmail.com	3101
-universidad nacional de jujuy	arquitectura	2020-07-12	denise	roberts	female	49	aldea brasilera	marygutierrez@gmail.com	3101
+universidad nacional de jujuy	arquitectura	2020-07-12	denise	roberts	female	50	aldea brasilera	marygutierrez@gmail.com	3101
 universidad nacional de jujuy	licenciatura en artes	2020-07-18	john	brown	male	59	arijon	bhopkins@hotmail.com	2242
 universidad nacional de jujuy	licenciatura en ciencia política 	2019-10-21	sabrina	oconnor	female	41	arroyo del pescado	treynolds@hotmail.com	1923
 universidad nacional de jujuy	diseño industrial	2019-10-31	lucas	gonzalez	male	73	arroyo del pescado	kclark@hotmail.com	1923
@@ -2533,7 +2533,7 @@ universidad nacional de jujuy	arquitectura	2019-10-19	anthony	leonard	male	43	co
 universidad nacional de jujuy	diseño de imagen y sonido	2020-02-21	matthew	wells	male	24	coronel isleños	kaylawaters@gmail.com	2747
 universidad nacional de jujuy	licenciatura en musicoterapia	2019-11-05	benjamin	moore	male	2	coronel isleños	meyerjames@yahoo.com	2747
 universidad nacional de jujuy	diseño industrial	2020-07-03	sarah	wallace	female	59	el rincon	lawrencechristopher@yahoo.com	8146
-universidad nacional de jujuy	licenciatura en artes	2020-02-23	john	padilla	male	96	el rincon	carl99@gmail.com	8146
+universidad nacional de jujuy	licenciatura en artes	2020-02-23	john	padilla	male	97	el rincon	carl99@gmail.com	8146
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-06-11	joseph	liu	male	69	la torrecita	nelsontyler@yahoo.com	6553
 universidad nacional de jujuy	licenciatura en ciencias de la computación	2020-01-13	brian	wood	male	97	la torrecita	hopkinsjeffrey@yahoo.com	6553
 universidad nacional de jujuy	ingeniería mecánica	2020-06-11	kristin	chapman	female	94	la torrecita	michelle78@gmail.com	6553
@@ -2545,15 +2545,15 @@ universidad nacional de jujuy	licenciatura en sociología 	2020-04-23	barbara	tu
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-04-10	ricky	garrett	male	92	aldea forestal	bonderik@gmail.com	3530
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2019-11-07	jack	franklin	male	20	aldea forestal	leematthew@gmail.com	3530
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-02-12	robert	gray	male	38	aldea forestal	greertodd@gmail.com	3530
-universidad nacional de jujuy	contador público 	2020-07-22	betty	miller	female	4	aldea forestal	dominiqueevans@gmail.com	3530
-universidad nacional de jujuy	técnico para bioterios 	2019-10-04	donald	clark	male	105	aguapey	marymiller@hotmail.com	3342
+universidad nacional de jujuy	contador público 	2020-07-22	betty	miller	female	5	aldea forestal	dominiqueevans@gmail.com	3530
+universidad nacional de jujuy	técnico para bioterios 	2019-10-04	donald	clark	male	106	aguapey	marymiller@hotmail.com	3342
 universidad nacional de jujuy	arquitectura	2020-02-16	maria	ramirez	female	64	aguapey	jessicamorris@gmail.com	3342
-universidad nacional de jujuy	licenciatura en musicoterapia	2019-11-06	sean	jefferson	male	66	aguapey	richardhanson@yahoo.com	3342
+universidad nacional de jujuy	licenciatura en musicoterapia	2019-11-06	sean	jefferson	male	67	aguapey	richardhanson@yahoo.com	3342
 universidad nacional de jujuy	licenciatura en administración 	2019-11-08	krista	gentry	female	110	aguapey	halljeffrey@gmail.com	3342
 universidad nacional de jujuy	licenciatura en musicoterapia	2019-11-04	julie	lopez	female	52	aguapey	christopher94@yahoo.com	3342
 universidad nacional de jujuy	ingeniería en informática	2020-01-03	jennifer	hamilton	female	54	pellegrini	kristygeorge@yahoo.com	6346
-universidad nacional de jujuy	licenciatura en musicoterapia	2020-01-25	megan	wagner	female	59	pellegrini	carrieshaw@hotmail.com	6346
-universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-02-22	ashley	thornton	female	26	estacion saguier	penaronald@hotmail.com	2315
+universidad nacional de jujuy	licenciatura en musicoterapia	2020-01-25	megan	wagner	female	60	pellegrini	carrieshaw@hotmail.com	6346
+universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-02-22	ashley	thornton	female	27	estacion saguier	penaronald@hotmail.com	2315
 universidad nacional de jujuy	licenciatura en kinesiología y fisiatría	2019-10-12	robert	brady	male	92	estacion saguier	angelaashley@yahoo.com	2315
 universidad nacional de jujuy	licenciatura en ciencias de la computación	2020-02-21	andre	baldwin	male	99	estacion saguier	earlwebb@hotmail.com	2315
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-03-03	shannon	conner	female	38	estacion saguier	qjones@gmail.com	2315
@@ -2572,7 +2572,7 @@ universidad nacional de jujuy	farmacia	2020-04-06	natalie	leblanc	female	27	clav
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2019-11-22	logan	hansen	male	78	comandante nicanor otamendi	wpruitt@yahoo.com	7603
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-03-17	gregory	contreras	male	7	comandante nicanor otamendi	joshuacannon@yahoo.com	7603
 universidad nacional de jujuy	técnico para bioterios 	2020-02-17	debra	jones	female	35	comandante nicanor otamendi	scottmartinez@gmail.com	7603
-universidad nacional de jujuy	ingeniería mecánica	2020-05-16	mariah	edwards	female	14	avena	waltonscott@yahoo.com	2449
+universidad nacional de jujuy	ingeniería mecánica	2020-05-16	mariah	edwards	female	15	avena	waltonscott@yahoo.com	2449
 universidad nacional de jujuy	arquitectura	2020-01-06	stephen	henderson	male	13	colonia el aguara	bennettjasmine@hotmail.com	3534
 universidad nacional de jujuy	licenciatura en psicología	2020-04-17	michelle	walker	female	86	colonia el aguara	danny02@gmail.com	3534
 universidad nacional de jujuy	licenciatura en artes	2020-06-12	bryan	wilkinson	male	52	colonia el aguara	ylamb@gmail.com	3534
@@ -2971,8 +2971,8 @@ universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-04-
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-03-24	krista	mejia	female	13	albarellos	brett56@hotmail.com	2101
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2019-11-29	nicole	lloyd	female	48	aldea san antonio	rrobinson@gmail.com	2826
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2019-11-29	nicole	lloyd	female	48	aldea san antonio	rrobinson@gmail.com	3117
-universidad nacional de jujuy	ciencias veterinarias	2019-10-31	kelly	harmon	female	98	aldea san antonio	jamie22@gmail.com	2826
-universidad nacional de jujuy	ciencias veterinarias	2019-10-31	kelly	harmon	female	98	aldea san antonio	jamie22@gmail.com	3117
+universidad nacional de jujuy	ciencias veterinarias	2019-10-31	kelly	harmon	female	99	aldea san antonio	jamie22@gmail.com	2826
+universidad nacional de jujuy	ciencias veterinarias	2019-10-31	kelly	harmon	female	99	aldea san antonio	jamie22@gmail.com	3117
 universidad nacional de jujuy	licenciatura en administración 	2019-12-19	julian	hall	male	58	aldea san antonio	calhounmichael@hotmail.com	2826
 universidad nacional de jujuy	licenciatura en administración 	2019-12-19	julian	hall	male	58	aldea san antonio	calhounmichael@hotmail.com	3117
 universidad nacional de jujuy	técnico para bioterios 	2020-04-11	christopher	moore	male	2	aldea san antonio	lgrant@gmail.com	2826
@@ -3098,7 +3098,7 @@ universidad nacional de jujuy	licenciatura en ciencia política 	2019-12-09	mich
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-01-04	pamela	manning	female	85	campo castro	mbecker@gmail.com	2148
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-03-13	stephanie	ramirez	female	20	campo castro	troyberry@gmail.com	2148
 universidad nacional de jujuy	medicina	2019-12-04	gregory	jacobs	male	5	punta de los llanos	pvazquez@gmail.com	5384
-universidad nacional de jujuy	ciencias veterinarias	2020-04-21	scott	smith	male	8	punta de los llanos	vtaylor@yahoo.com	5384
+universidad nacional de jujuy	ciencias veterinarias	2020-04-21	scott	smith	male	9	punta de los llanos	vtaylor@yahoo.com	5384
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-03-07	melody	williams	female	72	punta de los llanos	brandygillespie@yahoo.com	5384
 universidad nacional de jujuy	ciencias veterinarias	2020-07-22	scott	weiss	male	81	carlos salas	serranofrank@yahoo.com	6453
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-07-20	jerome	james	male	1	carlos salas	joshuaadams@yahoo.com	6453
@@ -3208,7 +3208,7 @@ universidad nacional de jujuy	licenciatura en psicología	2020-03-03	brent	sanch
 universidad nacional de jujuy	farmacia	2019-10-06	christine	avery	female	96	abra baya	zachary43@hotmail.com	4137
 universidad nacional de jujuy	licenciatura en musicoterapia	2020-07-11	francisco	ferguson	male	59	abra baya	hudsonzachary@hotmail.com	4137
 universidad nacional de jujuy	agronomía	2020-06-22	john	pratt	male	40	abra baya	leslieallison@hotmail.com	4137
-universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-03-19	barbara	grant	female	101	la legua	uryan@gmail.com	5411
+universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-03-19	barbara	grant	female	102	la legua	uryan@gmail.com	5411
 universidad nacional de jujuy	farmacia	2020-06-21	natalie	gordon	female	31	la legua	sanchezmichael@gmail.com	5411
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2019-12-26	david	guerrero	male	81	la legua	qmedina@hotmail.com	5411
 universidad nacional de jujuy	bioquímica	2019-12-02	tricia	jackson	female	38	fortin chaco	yjackson@gmail.com	8160
@@ -3235,7 +3235,7 @@ universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-05-10	an
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-01-06	marcus	hampton	male	44	campo santo domingo	melissapowell@yahoo.com	3020
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-01-26	jeffrey	collins	male	12	campo santo domingo	cgonzalez@gmail.com	3020
 universidad nacional de jujuy	licenciatura en psicología	2019-10-05	melissa	chavez	female	8	campo sabate	gstout@hotmail.com	7245
-universidad nacional de jujuy	ingeniería electrónica	2020-06-12	denise	smith	female	61	chillar	gleon@gmail.com	7311
+universidad nacional de jujuy	ingeniería electrónica	2020-06-12	denise	smith	female	62	chillar	gleon@gmail.com	7311
 universidad nacional de jujuy	licenciatura en sociología 	2019-11-16	valerie	johnson	female	38	chillar	matthew23@gmail.com	7311
 universidad nacional de jujuy	ingeniería en informática	2020-07-23	jennifer	mcclain	female	58	chillar	isims@hotmail.com	7311
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2019-11-25	robert	bennett	male	98	adela	rjohnson@yahoo.com	7136
@@ -3245,7 +3245,7 @@ universidad nacional de jujuy	ciencias veterinarias	2020-06-28	amy	gibson	female
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-02-21	gail	powers	female	14	adela	thompsonoscar@gmail.com	7136
 universidad nacional de jujuy	ingeniería en informática	2019-12-13	matthew	jones	male	9	ezpeleta este	keithlutz@yahoo.com	1882
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2020-07-18	alicia	holmes	female	87	ezpeleta este	leemelanie@yahoo.com	1882
-universidad nacional de jujuy	licenciatura en ciencias de la computación	2020-06-05	george	hartman	male	23	ezpeleta este	hansenclayton@yahoo.com	1882
+universidad nacional de jujuy	licenciatura en ciencias de la computación	2020-06-05	george	hartman	male	24	ezpeleta este	hansenclayton@yahoo.com	1882
 universidad nacional de jujuy	licenciatura en administración 	2020-05-13	michael	thomas	male	26	capilla del señor	matthewthompson@yahoo.com	2812
 universidad nacional de jujuy	licenciatura en artes	2020-01-08	laurie	ramirez	female	11	paso telegrafo	anthony79@gmail.com	3194
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-05-04	amanda	solomon	female	77	paso telegrafo	lrivera@hotmail.com	3194
@@ -3284,7 +3284,7 @@ universidad nacional de jujuy	agronomía	2020-05-14	melissa	reese	female	110	col
 universidad nacional de jujuy	diseño de imagen y sonido	2020-06-08	anthony	dunn	male	39	colonia bombal	robert08@yahoo.com	5529
 universidad nacional de jujuy	contador público 	2020-05-02	jacob	harris	male	22	colonia bombal	adamlewis@gmail.com	5529
 universidad nacional de jujuy	licenciatura en sociología 	2019-11-14	derek	smith	male	1	agua cercada	amandamay@hotmail.com	5447
-universidad nacional de jujuy	medicina	2020-03-18	tracy	herman	female	62	agua cercada	charles91@hotmail.com	5447
+universidad nacional de jujuy	medicina	2020-03-18	tracy	herman	female	63	agua cercada	charles91@hotmail.com	5447
 universidad nacional de jujuy	licenciatura en artes	2020-02-07	kevin	stephens	male	115	estancia las gamas	wattsmichelle@gmail.com	2723
 universidad nacional de jujuy	licenciatura en artes	2020-02-07	kevin	stephens	male	115	estancia las gamas	wattsmichelle@gmail.com	3057
 universidad nacional de jujuy	ciencias veterinarias	2020-02-14	john	bullock	male	52	estancia las gamas	cwright@gmail.com	2723
@@ -3318,7 +3318,7 @@ universidad nacional de jujuy	licenciatura en terapia ocupacional	2019-10-01	nat
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2019-12-11	jennifer	ray	female	45	deferrari	ryanshelton@hotmail.com	7521
 universidad nacional de jujuy	licenciatura en psicología	2019-12-14	jasmine	romero	female	71	barrio batan	joanne34@gmail.com	7601
 universidad nacional de jujuy	arquitectura	2020-07-11	jason	hoffman	male	53	barrio batan	lisagoodman@gmail.com	7601
-universidad nacional de jujuy	licenciatura en musicoterapia	2020-01-23	martha	curry	female	49	las hermanas	petersvictor@hotmail.com	7412
+universidad nacional de jujuy	licenciatura en musicoterapia	2020-01-23	martha	curry	female	50	las hermanas	petersvictor@hotmail.com	7412
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-03-29	isaiah	cohen	male	66	las hermanas	paul21@yahoo.com	7412
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2019-12-16	gina	valdez	female	23	las hermanas	davidrivera@gmail.com	7412
 universidad nacional de jujuy	licenciatura en psicología	2020-06-15	christy	schmidt	female	105	alto jaguel	perezteresa@hotmail.com	5359
@@ -3472,7 +3472,7 @@ universidad nacional de jujuy	licenciatura en ciencia política 	2020-05-27	scot
 universidad nacional de jujuy	licenciatura en psicología	2019-11-21	kyle	holden	male	103	general rodriguez	donaldstanton@hotmail.com	1748
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2020-06-19	andrew	castillo	male	111	general rodriguez	williamspaul@gmail.com	1748
 universidad nacional de jujuy	licenciatura en ciencias antropológicas	2020-05-09	nicholas	hayes	male	75	general rodriguez	elandry@hotmail.com	1748
-universidad nacional de jujuy	bioquímica	2019-12-08	patrick	williams	male	86	albarracin	arthursuarez@hotmail.com	5425
+universidad nacional de jujuy	bioquímica	2019-12-08	patrick	williams	male	87	albarracin	arthursuarez@hotmail.com	5425
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2019-11-28	jamie	vaughn	female	39	albarracin	brownbonnie@gmail.com	5425
 universidad nacional de jujuy	licenciatura en ciencias antropológicas	2020-05-20	victoria	smith	female	111	albarracin	christopher43@yahoo.com	5425
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2020-03-05	dillon	brown	male	70	albarracin	johnmoore@gmail.com	5425
@@ -3602,7 +3602,7 @@ universidad nacional de jujuy	ingeniería en informática	2020-04-20	jocelyn	mit
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2019-10-21	taylor	lee	female	94	chiclana	nacosta@yahoo.com	6476
 universidad nacional de jujuy	agronomía	2020-03-22	jesus	jensen	male	80	chiclana	william81@hotmail.com	6476
 universidad nacional de jujuy	diseño de imagen y sonido	2020-04-29	matthew	lopez	male	51	chiclana	gregory35@yahoo.com	6476
-universidad nacional de jujuy	agronomía	2020-04-03	pamela	stewart	female	92	colonia la gaviota	tmoore@hotmail.com	6354
+universidad nacional de jujuy	agronomía	2020-04-03	pamela	stewart	female	93	colonia la gaviota	tmoore@hotmail.com	6354
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-06-03	makayla	garcia	female	59	el zapallar	anthonyroberts@yahoo.com	5353
 universidad nacional de jujuy	licenciatura en ciencias antropológicas	2019-10-16	maria	collins	female	46	el zapallar	ycarter@hotmail.com	5353
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-07-21	patrick	jones	male	30	el zapallar	kayla61@gmail.com	5353
@@ -3703,7 +3703,7 @@ universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2019-10-
 universidad nacional de jujuy	licenciatura en psicología	2020-05-08	matthew	adams	male	107	carreras	esingleton@yahoo.com	2729
 universidad nacional de jujuy	farmacia	2020-02-16	logan	stokes	male	84	aaron castellanos	xwilliams@gmail.com	6106
 universidad nacional de jujuy	licenciatura en artes	2019-10-06	jane	shepherd	female	35	aaron castellanos	emorrison@gmail.com	6106
-universidad nacional de jujuy	técnico para bioterios 	2019-10-27	michele	hill	female	109	aldea escolar	smithelizabeth@hotmail.com	9203
+universidad nacional de jujuy	técnico para bioterios 	2019-10-27	michele	hill	female	110	aldea escolar	smithelizabeth@hotmail.com	9203
 universidad nacional de jujuy	agronomía	2020-01-13	sonya	gonzalez	female	102	aldea escolar	pbaxter@hotmail.com	9203
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-03-30	erica	chavez	female	79	colonia california	dhopkins@yahoo.com	3005
 universidad nacional de jujuy	ciencias veterinarias	2020-07-11	steven	silva	male	22	colonia california	gwatson@gmail.com	3005
@@ -3727,7 +3727,7 @@ universidad nacional de jujuy	ingeniería mecánica	2020-07-08	justin	spence	mal
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-02-03	brittany	perez	female	114	balde ahumada	loricox@gmail.com	5713
 universidad nacional de jujuy	actuario 	2020-05-14	david	kane	male	95	lomas del mirador	gardnerjoshua@hotmail.com	1752
 universidad nacional de jujuy	licenciatura en ciencias antropológicas	2020-02-15	donna burns	md	female	60	lomas del mirador	tonya94@yahoo.com	1752
-universidad nacional de jujuy	diseño industrial	2020-02-21	michael	dalton	male	29	lomas del mirador	victoriamoss@yahoo.com	1752
+universidad nacional de jujuy	diseño industrial	2020-02-21	michael	dalton	male	30	lomas del mirador	victoriamoss@yahoo.com	1752
 universidad nacional de jujuy	licenciatura en gestión de agroalimentos	2020-05-09	diane	smith	female	92	cabi monda	charles54@hotmail.com	3228
 universidad nacional de jujuy	ingeniería mecánica	2020-02-19	angela	hunter	female	46	cabi monda	christopher84@yahoo.com	3228
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2019-11-28	james	young	male	97	arturo segui	kimberlybrooks@gmail.com	1895
@@ -3740,7 +3740,7 @@ universidad nacional de jujuy	licenciatura en artes	2020-05-17	george	wilson	mal
 universidad nacional de jujuy	medicina	2019-10-17	kylie morrison	md	female	59	la primavera	bakerroy@yahoo.com	7543
 universidad nacional de jujuy	licenciatura en sociología 	2019-12-01	sharon	rivera	female	14	la primavera	zhorton@yahoo.com	7543
 universidad nacional de jujuy	licenciatura en administración 	2020-02-15	nicole	sharp	female	68	la primavera	carterkristen@hotmail.com	7543
-universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2020-07-16	jonathan	shaw	male	66	bahia bustamante	jose80@hotmail.com	9111
+universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2020-07-16	jonathan	shaw	male	67	bahia bustamante	jose80@hotmail.com	9111
 universidad nacional de jujuy	actuario 	2020-04-26	deborah	perry	female	11	bahia bustamante	stevensjeffrey@hotmail.com	9111
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2019-10-06	paul	brown	male	61	bahia bustamante	xjones@yahoo.com	9111
 universidad nacional de jujuy	licenciatura en sociología 	2020-02-09	michael	espinoza	male	8	bahia bustamante	paulgallagher@yahoo.com	9111
@@ -3755,7 +3755,7 @@ universidad nacional de jujuy	licenciatura en psicología	2019-10-03	renee	walke
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-06-08	melissa	dunn	female	84	cameron	westkatherine@yahoo.com	9017
 universidad nacional de jujuy	ciencias veterinarias	2020-03-30	brent	murphy	male	5	cameron	johntaylor@yahoo.com	9017
 universidad nacional de jujuy	licenciatura en ciencias geológicas	2019-11-12	curtis anderson	dds	male	9	lote 11 escuela 107	kristindavis@hotmail.com	6213
-universidad nacional de jujuy	contador público 	2019-10-04	jill	zimmerman	female	85	lote 11 escuela 107	davidreyes@yahoo.com	6213
+universidad nacional de jujuy	contador público 	2019-10-04	jill	zimmerman	female	86	lote 11 escuela 107	davidreyes@yahoo.com	6213
 universidad nacional de jujuy	técnico para bioterios 	2020-06-04	jason	phillips	male	84	lote 11 escuela 107	emily70@gmail.com	6213
 universidad nacional de jujuy	licenciatura en ciencias biológicas	2020-07-30	austin	brewer	male	20	colonia los tres usaris	aguilaranthony@hotmail.com	2760
 universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2019-11-25	nicholas	jones	male	88	colonia los tres usaris	royromero@gmail.com	2760
@@ -3883,7 +3883,7 @@ universidad nacional de jujuy	licenciatura en kinesiología y fisiatría	2020-05
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-06-16	ryan	obrien	male	5	11 de mayo	carlahoover@yahoo.com	5701
 universidad nacional de jujuy	licenciatura en ciencias de la computación	2019-11-03	christopher	morris	male	112	11 de mayo	matthew61@yahoo.com	5701
 universidad nacional de jujuy	licenciatura en sociología 	2020-02-23	meghan	paul	female	97	bella italia	justinlutz@gmail.com	2301
-universidad nacional de jujuy	licenciatura en ciencia política 	2020-06-11	joseph	braun	male	61	bella italia	alicia37@gmail.com	2301
+universidad nacional de jujuy	licenciatura en ciencia política 	2020-06-11	joseph	braun	male	62	bella italia	alicia37@gmail.com	2301
 universidad nacional de jujuy	licenciatura en artes	2020-04-25	megan	smith	female	113	arroyo moreira	davidrojas@gmail.com	3181
 universidad nacional de jujuy	licenciatura en planificación y diseño del paisaje	2020-03-20	natalie	cooper	female	1	arroyo moreira	fpoole@yahoo.com	3181
 universidad nacional de jujuy	licenciatura en terapia ocupacional	2019-11-30	morgan	myers	female	16	colonia hinojo	bkoch@yahoo.com	7318
@@ -3902,7 +3902,7 @@ universidad nacional de jujuy	técnico para bioterios 	2019-12-19	april	green	fe
 universidad nacional de jujuy	bioquímica	2020-03-25	teresa	wiggins	female	39	quiñihual estacion	jasminesparks@gmail.com	7533
 universidad nacional de jujuy	licenciatura en psicología	2019-10-03	jason	clayton	male	52	punta lara	morgansean@yahoo.com	1931
 universidad nacional de jujuy	licenciatura en relaciones del trabajo 	2019-12-24	daniel	cruz	male	2	colonia arocena ina	martinezjames@yahoo.com	3231
-universidad nacional de jujuy	farmacia	2020-07-26	michael	turner	male	111	colonia arocena ina	velazquezvincent@yahoo.com	3231
+universidad nacional de jujuy	farmacia	2020-07-26	michael	turner	male	112	colonia arocena ina	velazquezvincent@yahoo.com	3231
 universidad nacional de jujuy	técnico para bioterios 	2019-11-09	eugene	campbell	male	6	victoria	grahamelizabeth@yahoo.com	1644
 universidad nacional de jujuy	licenciatura en musicoterapia	2019-12-23	michael	young	male	54	victoria	theresaford@hotmail.com	1644
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-01-08	richard	palmer	male	105	barrio villa adela	patriciabryant@gmail.com	5584
@@ -3910,7 +3910,7 @@ universidad nacional de jujuy	licenciatura en artes	2020-07-16	david	gordon	male
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2019-11-15	robert	perez	male	92	recalde	sduffy@hotmail.com	6559
 universidad nacional de jujuy	licenciatura en psicología	2020-06-18	michael	miller	male	54	recalde	robert82@yahoo.com	6559
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2019-11-19	shannon	russell	female	34	recalde	donaldsonandrea@gmail.com	6559
-universidad nacional de jujuy	licenciatura en sociología 	2020-07-05	angela	west	female	100	campo monte la viruela	nicole45@yahoo.com	3551
+universidad nacional de jujuy	licenciatura en sociología 	2020-07-05	angela	west	female	101	campo monte la viruela	nicole45@yahoo.com	3551
 universidad nacional de jujuy	bioquímica	2020-01-29	tyler	franklin	male	113	campo monte la viruela	elizabeth74@gmail.com	3551
 universidad nacional de jujuy	licenciatura en artes	2020-03-24	christie	martinez	female	10	algarrobo del aguila	eric39@yahoo.com	6323
 universidad nacional de jujuy	licenciatura en ciencias ambientales	2020-01-08	kathleen	chavez	female	7	algarrobo del aguila	qfrancis@yahoo.com	6323
@@ -4064,7 +4064,7 @@ universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-05
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-01-12	james	cameron	male	67	ascencion	wesleybaker@yahoo.com	6003
 universidad nacional de jujuy	ingeniería en informática	2020-03-13	marissa	stevens	female	4	isla los laureles	williamwaters@yahoo.com	2931
 universidad nacional de jujuy	licenciatura en ciencias de la educación 	2020-02-14	darlene	johnson	female	64	isla los laureles	jonathanholloway@yahoo.com	2931
-universidad nacional de jujuy	técnico para bioterios 	2019-12-03	laura	weiss	female	14	jose leon suarez	vickihenderson@yahoo.com	1655
+universidad nacional de jujuy	técnico para bioterios 	2019-12-03	laura	weiss	female	15	jose leon suarez	vickihenderson@yahoo.com	1655
 universidad nacional de jujuy	licenciatura en ciencia política 	2020-04-09	adam	white	male	36	jose leon suarez	ocarroll@yahoo.com	1655
 universidad nacional de jujuy	ingeniería en informática	2020-03-16	gregory	collins	male	91	araujo	moraerin@yahoo.com	6643
 universidad nacional de jujuy	ciencias veterinarias	2019-10-16	claire	wagner	female	21	bahia langara	brownbrian@hotmail.com	9011
@@ -4117,7 +4117,7 @@ universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos
 universidad nacional de jujuy	licenciatura en producción de bioimagenes	2020-03-28	kyle	jarvis	male	58	drabble	annachen@hotmail.com	6242
 universidad nacional de jujuy	ingeniería electrónica	2019-10-15	melissa	hoover	female	69	canning	youngmelanie@hotmail.com	1804
 universidad nacional de jujuy	bioquímica	2019-11-23	courtney	bush	female	61	carlos pellegrini	eriley@hotmail.com	2453
-universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-06-24	vincent	davis	male	17	alvarez jonte	emily91@hotmail.com	1921
+universidad nacional de jujuy	licenciatura en ciencia y tecnología de alimentos	2020-06-24	vincent	davis	male	18	alvarez jonte	emily91@hotmail.com	1921
 universidad nacional de jujuy	contador público 	2020-06-17	jason	ward	male	9	alvarez jonte	tjohnson@hotmail.com	1921
 universidad nacional de jujuy	licenciatura en kinesiología y fisiatría	2020-05-30	barbara	brown	female	14	san nicolas de los arroyos	kimrodriguez@hotmail.com	2900
 universidad nacional de jujuy	ciencias veterinarias	2020-03-21	scott	edwards	male	44	16 de julio	lori01@yahoo.com	7313
