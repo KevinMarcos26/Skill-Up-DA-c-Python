@@ -1,0 +1,8 @@
+version: "3.1"
+services:
+  scheduler:
+    volumes:
+      - ./files:/usr/local/airflow/files:rw
+      - ./datasets:/usr/local/airflow/datasets:rw
+      - ./assets:/usr/local/airflow/assets:rw
+      - ./dags/logs:/usr/local/airflow/dags/logs:rw

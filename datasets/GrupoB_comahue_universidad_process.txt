@@ -209,7 +209,7 @@ univ. nacional del comahue	arquitectura	2020-10-20	melinda	walter	female	69	8111
 univ. nacional del comahue	bioquímica	2021-01-06	gregory	thompson	male	57	3371	cabure	mcdowellrobert@gmail.com
 univ. nacional del comahue	licenciatura en psicología	2020-12-31	michele	fields	female	20	4111	aguada	ecarey@yahoo.com
 univ. nacional del comahue	actuario	2020-12-24	colleen	perkins	female	38	3025	colonia clara	mitchellcarly@hotmail.com
-univ. nacional del comahue	licenciatura en ciencias de la educación	2020-11-20	debra	kirk	female	76	5555	puente del inca	tdavis@hotmail.com
+univ. nacional del comahue	licenciatura en ciencias de la educación	2020-11-20	debra	kirk	female	77	5555	puente del inca	tdavis@hotmail.com
 univ. nacional del comahue	licenciatura en gestión de agroalimentos	2020-09-29	lisa	klein	female	25	5380	chamical	leslienunez@yahoo.com
 univ. nacional del comahue	licenciatura en ciencia política	2020-10-21	michele	mooney	female	90	3586	campo yaguarete	michaelleon@gmail.com
 univ. nacional del comahue	ingeniería en informática	2020-09-22	manuel	english	male	38	6652	olascoaga	xhill@hotmail.com
@@ -281,7 +281,7 @@ univ. nacional del comahue	bioquímica	2021-01-09	jessica	evans	female	30	1911	b
 univ. nacional del comahue	licenciatura en ciencias geológicas	2020-09-10	jack	jackson	male	87	8333	aguada guzman	ejones@hotmail.com
 univ. nacional del comahue	arquitectura	2020-09-19	paul	brown	male	44	2752	almacen el descanso	zwilcox@yahoo.com
 univ. nacional del comahue	licenciatura en artes	2020-11-12	michelle	harris	female	54	8187	bordenave	david24@yahoo.com
-univ. nacional del comahue	diseño de imagen y sonido	2020-09-03	todd	warren	male	83	2142	campo medina	debra01@hotmail.com
+univ. nacional del comahue	diseño de imagen y sonido	2020-09-03	todd	warren	male	84	2142	campo medina	debra01@hotmail.com
 univ. nacional del comahue	licenciatura en psicología	2020-12-18	mary	reyes	female	24	6360	barrio el molino	brianaustin@hotmail.com
 univ. nacional del comahue	contador público	2020-11-16	ashley	diaz	female	23	8431	el hoyo	brianfitzgerald@hotmail.com
 univ. nacional del comahue	licenciatura en administración	2020-12-18	jennifer	mcconnell	female	36	2912	la querencia	sanchezsean@gmail.com
@@ -426,7 +426,7 @@ univ. nacional del comahue	licenciatura en ciencias de la educación	2020-11-03	
 univ. nacional del comahue	licenciatura en administración	2020-09-02	christina	long	female	88	4750	agua colorada	williammcpherson@yahoo.com
 univ. nacional del comahue	licenciatura en terapia ocupacional	2020-11-26	kayla	watkins	female	18	5444	ampacama	michaelduncan@yahoo.com
 univ. nacional del comahue	licenciatura en ciencias de la computación	2020-09-19	taylor	duncan	female	22	5755	alto del molle	phillip16@yahoo.com
-univ. nacional del comahue	licenciatura en musicoterapia	2021-01-22	logan	stone	male	60	6705	villa ruiz	stevengordon@hotmail.com
+univ. nacional del comahue	licenciatura en musicoterapia	2021-01-22	logan	stone	male	61	6705	villa ruiz	stevengordon@hotmail.com
 univ. nacional del comahue	licenciatura en ciencias biológicas	2020-11-28	brian	ross	male	73	9023	buen pasto	aedwards@yahoo.com
 univ. nacional del comahue	farmacia	2020-11-30	alexis	smith	female	68	3585	el sombrerito	allentiffany@hotmail.com
 univ. nacional del comahue	licenciatura en ciencia y tecnología de alimentos	2020-11-25	edward	miller	male	39	5773	cañada	ebailey@hotmail.com
@@ -501,7 +501,7 @@ univ. nacional del comahue	licenciatura en musicoterapia	2020-11-24	john	roberts
 univ. nacional del comahue	diseño de imagen y sonido	2021-01-31	ashley	osborne	female	57	2715	el socorro	rcoffey@hotmail.com
 univ. nacional del comahue	licenciatura en planificación y diseño del paisaje	2020-12-14	jo	shields	female	59	1678	caseros	hshields@yahoo.com
 univ. nacional del comahue	ingeniería electrónica	2020-12-30	wayne	hayden	male	81	3592	colonia hardy	farmersusan@yahoo.com
-univ. nacional del comahue	ingeniería electrónica	2021-01-18	amber	brown dds	female	23	3206	bella union paraje	rachelmcdonald@yahoo.com
+univ. nacional del comahue	ingeniería electrónica	2021-01-18	amber	brown dds	female	24	3206	bella union paraje	rachelmcdonald@yahoo.com
 univ. nacional del comahue	ingeniería en informática	2020-09-07	richard	brown	male	51	1601	isla martin garcia	chelsey16@hotmail.com
 univ. nacional del comahue	actuario	2020-11-11	susan	patterson	female	85	2349	colonia dos rosas y la legua	turneralicia@hotmail.com
 univ. nacional del comahue	licenciatura en musicoterapia	2020-09-02	angela	simmons	female	83	3158	20 de septiembre	stonekimberly@yahoo.com
@@ -798,7 +798,7 @@ univ. nacional del comahue	ciencias veterinarias	2020-10-05	gabriela	mcgrath	fem
 univ. nacional del comahue	licenciatura en ciencias biológicas	2020-12-25	linda	franco	female	26	4113	acostilla	aking@gmail.com
 univ. nacional del comahue	licenciatura en ciencias de la computación	2020-10-17	courtney	brennan	female	45	3199	los laureles	rosesharp@gmail.com
 univ. nacional del comahue	licenciatura en ciencias ambientales	2021-01-04	sabrina	robertson	female	41	6348	bocayuba	franklinmark@gmail.com
-univ. nacional del comahue	licenciatura en planificación y diseño del paisaje	2021-01-02	joy	bryant	female	46	9009	cañadon lagarto	connor86@gmail.com
+univ. nacional del comahue	licenciatura en planificación y diseño del paisaje	2021-01-02	joy	bryant	female	47	9009	cañadon lagarto	connor86@gmail.com
 univ. nacional del comahue	ingeniería mecánica	2020-12-10	melanie	williams	female	56	1885	guillermo e hudson	matthew37@gmail.com
 univ. nacional del comahue	bioquímica	2021-01-25	deanna	evans	female	39	3156	betbeder	christopher84@yahoo.com
 univ. nacional del comahue	licenciatura en ciencia y tecnología de alimentos	2021-01-12	john	miller	male	44	7005	barker	robertobowen@yahoo.com
@@ -841,7 +841,7 @@ univ. nacional del comahue	licenciatura en ciencias de la educación	2020-11-30	
 univ. nacional del comahue	licenciatura en ciencias geológicas	2020-10-05	casey	lewis	male	84	3445	9 de julio	johnsonchristian@yahoo.com
 univ. nacional del comahue	diseño industrial	2021-01-15	michael	williams	male	57	1640	acassuso	jameslewis@hotmail.com
 univ. nacional del comahue	licenciatura en artes	2021-01-07	christopher	ballard	male	45	4147	alto las lechuzas	valexander@hotmail.com
-univ. nacional del comahue	licenciatura en ciencia política	2020-10-18	heather	terrell	female	43	6239	gonzalez moreno	xreed@yahoo.com
+univ. nacional del comahue	licenciatura en ciencia política	2020-10-18	heather	terrell	female	44	6239	gonzalez moreno	xreed@yahoo.com
 univ. nacional del comahue	licenciatura en producción de bioimagenes	2020-09-08	patrick	garrett	male	39	4186	cañete	greenecharles@yahoo.com
 univ. nacional del comahue	licenciatura en ciencias geológicas	2020-10-14	brianna	williams	female	41	4601	corral de piedras	davidmiller@gmail.com
 univ. nacional del comahue	licenciatura en ciencias biológicas	2020-10-15	julie	warren	female	74	9050	gobernador moyano	alejandro81@gmail.com
@@ -949,7 +949,7 @@ univ. nacional del comahue	contador público	2021-01-19	jon	key	male	59	2309	col
 univ. nacional del comahue	licenciatura en producción de bioimagenes	2020-10-13	catherine	garcia	female	56	7167	carilo	ygarcia@gmail.com
 univ. nacional del comahue	licenciatura en ciencia política	2020-12-03	mrs.	emily ramirez	female	74	2258	campo quiñones	tayloramber@yahoo.com
 univ. nacional del comahue	licenciatura en musicoterapia	2020-10-28	michael	palmer	male	19	3374	el porvenir	anneflores@gmail.com
-univ. nacional del comahue	licenciatura en ciencias biológicas	2020-12-24	john	green	male	83	7400	barrio la luisa	alexanderkaren@gmail.com
+univ. nacional del comahue	licenciatura en ciencias biológicas	2020-12-24	john	green	male	84	7400	barrio la luisa	alexanderkaren@gmail.com
 univ. nacional del comahue	licenciatura en ciencia y tecnología de alimentos	2020-09-11	carlos	johnson	male	47	6614	franklin	owengeorge@yahoo.com
 univ. nacional del comahue	licenciatura en administración	2020-11-20	chelsea	hatfield	female	63	4740	agua salada	alexismarshall@gmail.com
 univ. nacional del comahue	agronomía	2020-12-10	kathryn	allen	female	51	2185	campo crenna	eatonbrooke@hotmail.com
@@ -1024,7 +1024,7 @@ univ. nacional del comahue	licenciatura en relaciones del trabajo	2020-10-11	ant
 univ. nacional del comahue	diseño industrial	2021-02-01	jennifer	cohen	female	38	4157	arroyo mal paso	rramirez@hotmail.com
 univ. nacional del comahue	actuario	2020-09-26	kimberly	booth	female	67	3364	2 de mayo	jacob03@yahoo.com
 univ. nacional del comahue	licenciatura en ciencia y tecnología de alimentos	2020-10-27	rebecca	bass	female	35	2722	wheelwright	melissasmith@hotmail.com
-univ. nacional del comahue	licenciatura en ciencias antropológicas	2020-10-10	matthew	vaughn	male	48	3080	colonia pujol	msanchez@yahoo.com
+univ. nacional del comahue	licenciatura en ciencias antropológicas	2020-10-10	matthew	vaughn	male	49	3080	colonia pujol	msanchez@yahoo.com
 univ. nacional del comahue	licenciatura en ciencia política	2020-12-26	janice	robinson	female	40	7301	ariel	roachalexandra@yahoo.com
 univ. nacional del comahue	licenciatura en ciencia política	2020-10-01	brenda	martin	female	57	2156	arsenal de guerra san lorenzo	gthomas@hotmail.com
 univ. nacional del comahue	actuario	2020-09-07	robert	moreno	male	88	3574	capilla guadalupe norte	nwatson@yahoo.com

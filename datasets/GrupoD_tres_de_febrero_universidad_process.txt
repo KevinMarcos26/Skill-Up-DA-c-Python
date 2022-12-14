@@ -111,7 +111,7 @@ universidad nacional de tres de febrero	ingeniería mecánica	2021-01-12	katie	m
 universidad nacional de tres de febrero	licenciatura en producción de bioimagenes	2021-01-26	patrick	kennedy	male	32	3732	colonia abate	donaldwest@yahoo.com
 universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de alimentos	2021-01-04	sherri	schmidt	female	21	7105	san clemente del tuyu	amy01@yahoo.com
 universidad nacional de tres de febrero	ingeniería electrónica	2021-01-26	randall	grimes	male	39	5421	la tranca	sandrahart@hotmail.com
-universidad nacional de tres de febrero	licenciatura en artes	2021-01-04	diane	jones	female	26	6455	carlos tejedor	peterskimberly@hotmail.com
+universidad nacional de tres de febrero	licenciatura en artes	2021-01-04	diane	jones	female	27	6455	carlos tejedor	peterskimberly@hotmail.com
 universidad nacional de tres de febrero	licenciatura en musicoterapia	2021-01-16	leonard	brewer	male	21	3451	batelito	elizabethgonzalez@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencia política	2021-01-24	michael	green	male	21	3561	avellaneda	ejefferson@gmail.com
 universidad nacional de tres de febrero	diseño de imagen y sonido	2021-01-05	carlos	scott	male	32	3206	bella union paraje	amanda88@yahoo.com
@@ -172,7 +172,7 @@ universidad nacional de tres de febrero	ciencias veterinarias	2021-01-03	daniel	
 universidad nacional de tres de febrero	ingeniería mecánica	2021-01-29	mathew	barry	male	21	2946	el espinillo	jennifersmith@gmail.com
 universidad nacional de tres de febrero	licenciatura en kinesiología y fisiatría	2021-01-06	melissa	jackson	female	21	2344	achaval rodriguez	emathews@gmail.com
 universidad nacional de tres de febrero	medicina	2021-01-24	garrett	rogers	male	21	3111	almacen cristian schubert	jillian26@yahoo.com
-universidad nacional de tres de febrero	licenciatura en artes	2021-01-13	craig	higgins	male	20	7631	costa bonita balneario	xturner@gmail.com
+universidad nacional de tres de febrero	licenciatura en artes	2021-01-13	craig	higgins	male	21	7631	costa bonita balneario	xturner@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias de la computación	2021-01-11	jordan	mendez	male	21	3587	san antonio de obligado	sarah96@yahoo.com
 universidad nacional de tres de febrero	arquitectura	2021-01-23	john	gray	male	21	2721	el arbolito	jeffrey81@yahoo.com
 universidad nacional de tres de febrero	licenciatura en ciencias ambientales	2021-01-11	nancy	baker	female	21	4129	cañada	tshields@hotmail.com
@@ -251,7 +251,7 @@ universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de
 universidad nacional de tres de febrero	licenciatura en artes	2021-01-07	ronnie	powell	male	21	1757	gregorio de laferrere	phillipsjack@gmail.com
 universidad nacional de tres de febrero	ingeniería mecánica	2021-01-28	crystal	ingram	female	21	6703	alastuey	hernandezpatrick@hotmail.com
 universidad nacional de tres de febrero	diseño industrial	2021-01-15	morgan	turner	female	21	4605	alisos  de abajo	yhatfield@yahoo.com
-universidad nacional de tres de febrero	técnico para bioterios	2021-01-26	jason	dunn	male	32	3572	campo garabato	uedwards@hotmail.com
+universidad nacional de tres de febrero	técnico para bioterios	2021-01-26	jason	dunn	male	33	3572	campo garabato	uedwards@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias de la computación	2021-01-17	deborah	leon	female	25	3208	colonia ensanche sauce	robert35@hotmail.com
 universidad nacional de tres de febrero	bioquímica	2021-01-10	anthony	garcia	male	21	3013	colonia matilde	brownchristy@yahoo.com
 universidad nacional de tres de febrero	diseño industrial	2021-01-25	tanner	webb	male	21	3382	colonia cunci	usanchez@yahoo.com
@@ -300,7 +300,7 @@ universidad nacional de tres de febrero	ciencias veterinarias	2021-01-23	joan	we
 universidad nacional de tres de febrero	bioquímica	2021-01-17	jennifer	poole	female	48	8129	17 de agosto	grossamy@yahoo.com
 universidad nacional de tres de febrero	licenciatura en administración	2021-01-18	traci	jones	female	21	3003	colonia los zapallos	jameschristopher@gmail.com
 universidad nacional de tres de febrero	farmacia	2021-01-10	dawn	allen	female	21	1895	arturo segui	walter38@hotmail.com
-universidad nacional de tres de febrero	licenciatura en ciencias ambientales	2021-01-19	stephanie	perez	female	34	4117	alabama	marciagalvan@yahoo.com
+universidad nacional de tres de febrero	licenciatura en ciencias ambientales	2021-01-19	stephanie	perez	female	35	4117	alabama	marciagalvan@yahoo.com
 universidad nacional de tres de febrero	ingeniería electrónica	2021-01-05	michele	nelson	female	21	6511	hale	ysmith@hotmail.com
 universidad nacional de tres de febrero	contador público	2021-01-07	valerie	carter	female	21	6001	agustin roca	reynoldskathy@yahoo.com
 universidad nacional de tres de febrero	bioquímica	2021-01-25	amanda	smith	female	21	3181	arroyo moreira	derickson@yahoo.com
@@ -526,7 +526,7 @@ universidad nacional de tres de febrero	diseño industrial	2021-01-03	danielle	s
 universidad nacional de tres de febrero	ciencias veterinarias	2021-01-30	charles	reed	male	21	5340	agua grande	hnorris@gmail.com
 universidad nacional de tres de febrero	ingeniería en informática	2021-01-16	scott	walton	male	21	3134	antonio tomas sud	changmatthew@yahoo.com
 universidad nacional de tres de febrero	medicina	2021-01-07	andrew	sanchez	male	21	5585	el cipres	robertconner@gmail.com
-universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de alimentos	2021-01-16	jordan	morales	male	41	2248	bernardo de irigoyen	calderonbryan@hotmail.com
+universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de alimentos	2021-01-16	jordan	morales	male	42	2248	bernardo de irigoyen	calderonbryan@hotmail.com
 universidad nacional de tres de febrero	licenciatura en artes	2021-01-03	brianna	lee	female	48	5433	estacion la rinconada	lanedeborah@gmail.com
 universidad nacional de tres de febrero	arquitectura	2021-01-11	thomas	jackson	male	21	4162	batiruana	sjackson@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias de la educación	2021-01-18	jasmine	james	female	21	3074	colonia el simbol	stephaniefletcher@yahoo.com
@@ -2590,7 +2590,7 @@ universidad nacional de tres de febrero	licenciatura en ciencias de la computaci
 universidad nacional de tres de febrero	contador público	2021-01-30	john	harper	male	21	2723	estancia las gamas	mtyler@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencia y tecnología de alimentos	2021-01-10	bianca	eaton	female	21	1702	ciudadela	pcarlson@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias ambientales	2021-01-03	hunter	barton	male	21	2935	algarrobo	harperbrianna@yahoo.com
-universidad nacional de tres de febrero	técnico para bioterios	2021-01-19	wendy	perez	female	29	6309	alpachiri	ballthomas@gmail.com
+universidad nacional de tres de febrero	técnico para bioterios	2021-01-19	wendy	perez	female	30	6309	alpachiri	ballthomas@gmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias biológicas	2021-01-09	stacy	davis	female	21	2501	berretta	plarson@gmail.com
 universidad nacional de tres de febrero	licenciatura en psicología	2021-01-13	james	page	male	21	1653	villa ballester	isaacluna@yahoo.com
 universidad nacional de tres de febrero	arquitectura	2021-01-08	joseph	white	male	21	8200	colonia lia y allende	ralphstanley@hotmail.com
@@ -2641,7 +2641,7 @@ universidad nacional de tres de febrero	ciencias veterinarias	2021-01-07	catheri
 universidad nacional de tres de febrero	ciencias veterinarias	2021-01-04	jessica	hansen	female	21	6723	cucullu	brianreeves@gmail.com
 universidad nacional de tres de febrero	licenciatura en gestión de agroalimentos	2021-01-16	aaron	smith	male	21	4164	bajastine	warnerrachel@yahoo.com
 universidad nacional de tres de febrero	licenciatura en ciencias geológicas	2021-01-17	alan	price	male	21	8136	algarrobo	martinlisa@hotmail.com
-universidad nacional de tres de febrero	licenciatura en ciencias antropológicas	2021-01-03	lori	barber	female	20	3081	cavour	yward@hotmail.com
+universidad nacional de tres de febrero	licenciatura en ciencias antropológicas	2021-01-03	lori	barber	female	21	3081	cavour	yward@hotmail.com
 universidad nacional de tres de febrero	licenciatura en ciencias ambientales	2021-01-02	steve	gentry	male	30	1816	colonia santa rosa	dianelindsey@gmail.com
 universidad nacional de tres de febrero	licenciatura en relaciones del trabajo	2021-01-17	julia	vang	female	21	9050	gobernador moyano	larsonrebecca@yahoo.com
 universidad nacional de tres de febrero	bioquímica	2021-01-25	jason	grimes	male	21	3056	campo coubert	michelle64@yahoo.com
@@ -3829,7 +3829,7 @@ universidad nacional de tres de febrero	licenciatura en ciencias ambientales	202
 universidad nacional de tres de febrero	licenciatura en ciencias de la educación	2021-01-28	cody	delgado	male	21	8401	cullin manzano	sarahfrench@gmail.com
 universidad nacional de tres de febrero	licenciatura en musicoterapia	2021-01-16	craig	guzman	male	21	7408	la colina	steven00@hotmail.com
 universidad nacional de tres de febrero	ingeniería electrónica	2021-01-13	grace	harvey	female	21	3137	alcaraz sud	ybarrett@hotmail.com
-universidad nacional de tres de febrero	actuario	2021-01-04	matthew	baker	male	46	3337	adolfo j pomar	colemanjillian@gmail.com
+universidad nacional de tres de febrero	actuario	2021-01-04	matthew	baker	male	47	3337	adolfo j pomar	colemanjillian@gmail.com
 universidad nacional de tres de febrero	licenciatura en musicoterapia	2021-01-04	jeffrey	mcconnell	male	41	2701	12 de agosto	bknox@hotmail.com
 universidad nacional de tres de febrero	arquitectura	2021-01-28	jill	waters	female	21	5601	capitan montoya	garciajoshua@hotmail.com
 universidad nacional de tres de febrero	técnico para bioterios	2021-01-09	steven	archer	male	21	4103	bajo de raco	clayton98@gmail.com

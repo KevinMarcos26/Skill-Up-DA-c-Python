@@ -1,0 +1,5 @@
+university: "GrupoF_rio_cuarto_universidad"
+db_conn: "alkemy_db"
+date_format: "%y/%b/%d"
+aws_conn: "aws_s3_bucket"
+dest_bucket: "alkemy26"
