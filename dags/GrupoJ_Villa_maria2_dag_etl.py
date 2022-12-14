@@ -1,10 +1,10 @@
 from airflow import DAG
 from airflow.decorators import task
 from datetime import datetime
-from helper_functions import logger_setup
-from helper_functions.extracting import extraction
-from helper_functions.utils import *
-from helper_functions.loader import *
+from plugins.helper_functions import logger_setup
+from plugins.helper_functions.extracting import extraction
+from plugins.helper_functions.utils import *
+from plugins.helper_functions.loader import *
 import pandas as pd
 import numpy as np
 from airflow.providers.amazon.aws.transfers.local_to_s3 import LocalFilesystemToS3Operator
@@ -45,7 +45,7 @@ with DAG(f'{university}_dag_etl',
         df = pd.read_csv(f'files/{university}_select.csv', index_col=0)
         df['university'] = df['university'].str.lower().str.replace('_',' ').str.strip()
         df['career'] = df['career'].str.lower().str.replace('_',' ').str.strip()
-        df['first_name'] = df['first_name'].str.replace('-', ' ').str.strip().str.lower()
+        df['first_name'] = df['first_name'].str.replace('_', ' ').str.strip().str.lower()
         df['email'] = df['email'].str.lower().str.replace('_',' ').str.strip()
         df['gender'] = df['gender'].map({'F': 'female', 'M': 'male'})
         df['inscription_date'] = df['inscription_date']

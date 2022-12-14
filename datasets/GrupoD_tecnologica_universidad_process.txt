@@ -151,7 +151,7 @@ universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	202
 universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-11-12	steven	charles	male	114	3023	cululu	kbeasley@gmail.com
 universidad tecnológica nacional	farmacia	2020-10-04	lisa	dyer	female	92	5587	barcala	yrosales@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias de la computación	2021-01-02	jessica	hampton	female	83	6239	gonzalez moreno	goodmanangela@gmail.com
-universidad tecnológica nacional	diseño industrial	2020-09-25	katie	weber	female	98	1814	barrio 1 de mayo	davidmckinney@yahoo.com
+universidad tecnológica nacional	diseño industrial	2020-09-25	katie	weber	female	99	1814	barrio 1 de mayo	davidmckinney@yahoo.com
 universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2020-09-18	kathy	wright	female	1	2523	bouquet	carpenteralex@gmail.com
 universidad tecnológica nacional	licenciatura en ciencias ambientales	2020-11-21	scott	wells	male	75	8133	la rosa	perryteresa@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias antropológicas	2020-09-26	katie	scott	female	106	8124	berraondo	heather91@gmail.com
@@ -265,7 +265,7 @@ universidad tecnológica nacional	técnico para bioterios 	2020-09-14	daniel	ort
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-10-08	alexander	wilcox	male	97	2760	colonia los tres usaris	fmcneil@gmail.com
 universidad tecnológica nacional	licenciatura en ciencias antropológicas	2020-11-30	lisa	joseph	female	7	3363	25 de mayo	brennanstephen@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias de la computación	2020-12-03	shannon	ruiz	female	105	6214	casimiro gomez	emorton@hotmail.com
-universidad tecnológica nacional	ciencias veterinarias	2020-10-27	christine	lowery	female	76	7163	claverie	angela56@hotmail.com
+universidad tecnológica nacional	ciencias veterinarias	2020-10-27	christine	lowery	female	77	7163	claverie	angela56@hotmail.com
 universidad tecnológica nacional	contador público 	2020-10-22	shelby	carroll	female	36	3164	colonia rivas	stephaniejohnson@yahoo.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-09-18	kenneth	martin	male	59	3134	antonio tomas sud	felicia40@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencias biológicas	2021-01-09	christine	jackson	female	17	3526	gandolfi	fieldsheather@hotmail.com
@@ -310,7 +310,7 @@ universidad tecnológica nacional	licenciatura en terapia ocupacional	2021-01-14
 universidad tecnológica nacional	diseño de imagen y sonido	2020-09-28	pamela	jones	female	51	3472	caaguazu	rholt@hotmail.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-11-10	mark	prince	male	36	8208	campo cicare	hebertcraig@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencia política 	2020-12-01	david	smith	male	113	3050	calchaqui	smithjohn@hotmail.com
-universidad tecnológica nacional	licenciatura en psicología	2021-01-06	melanie	hernandez	female	92	3516	basail	clarkkatelyn@yahoo.com
+universidad tecnológica nacional	licenciatura en psicología	2021-01-06	melanie	hernandez	female	93	3516	basail	clarkkatelyn@yahoo.com
 universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-11-29	amanda	lewis	female	49	1712	castelar	robert58@gmail.com
 universidad tecnológica nacional	licenciatura en ciencias biológicas	2020-10-31	kevin	brown	male	18	2921	godoy	kimberly57@yahoo.com
 universidad tecnológica nacional	ingeniería electrónica	2020-10-14	tanya	gonzalez	female	15	5770	chacras viejas	fwilkins@gmail.com
@@ -347,7 +347,7 @@ universidad tecnológica nacional	agronomía	2020-12-15	angela	williams	female	2
 universidad tecnológica nacional	medicina	2020-10-04	christopher	joseph	male	29	5413	apeadero las chimbas	banksjames@hotmail.com
 universidad tecnológica nacional	ingeniería en informática	2020-10-19	mr.	jeffery	male	56	8418	anecon chico	shane01@gmail.com
 universidad tecnológica nacional	técnico para bioterios 	2020-10-31	carrie	mason	female	48	6537	el camoati	janetmay@yahoo.com
-universidad tecnológica nacional	farmacia	2020-12-03	pamela	olson	female	43	2103	colonia escribano	sandraandrews@hotmail.com
+universidad tecnológica nacional	farmacia	2020-12-03	pamela	olson	female	44	2103	colonia escribano	sandraandrews@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencias de la educación 	2020-10-29	james	henderson	male	60	4431	aguas calientes	larsonrobert@gmail.com
 universidad tecnológica nacional	contador público 	2020-11-17	benjamin	torres	male	3	3381	maria magdalena	lindseymendez@gmail.com
 universidad tecnológica nacional	bioquímica	2021-01-16	misty	kim	female	51	8407	correntoso	greenmatthew@yahoo.com
@@ -603,7 +603,7 @@ universidad tecnológica nacional	licenciatura en ciencias ambientales	2020-11-0
 universidad tecnológica nacional	licenciatura en psicología	2020-10-22	anthony	powell	male	40	5612	valle de las leñas	ddavidson@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencias ambientales	2021-01-29	diane	davis	female	71	6305	atreuco	zriddle@hotmail.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-09-30	david	marks	male	83	5565	campo de los andes	crystalnichols@hotmail.com
-universidad tecnológica nacional	licenciatura en ciencias de la educación 	2020-10-14	jason	pierce	male	38	5276	baldes de pacheco	sierrabarrett@yahoo.com
+universidad tecnológica nacional	licenciatura en ciencias de la educación 	2020-10-14	jason	pierce	male	39	5276	baldes de pacheco	sierrabarrett@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias de la computación	2021-01-12	jake	phillips	male	103	3230	arbol solo	thomas72@yahoo.com
 universidad tecnológica nacional	técnico para bioterios 	2020-12-27	kevin	perez	male	59	3461	abo nezu	carriebaker@hotmail.com
 universidad tecnológica nacional	actuario 	2020-10-13	reginald	ward	male	10	9015	alma grande	michael15@hotmail.com
@@ -826,7 +826,7 @@ universidad tecnológica nacional	licenciatura en ciencias biológicas	2020-09-2
 universidad tecnológica nacional	licenciatura en ciencias geológicas	2020-11-06	randy	ingram	male	77	6706	est jauregui va flandria	heather48@yahoo.com
 universidad tecnológica nacional	agronomía	2020-10-29	victoria	young	female	77	1605	carapachay	kevinruiz@hotmail.com
 universidad tecnológica nacional	licenciatura en psicología	2020-10-10	eileen	jimenez	female	75	6417	casbas	lalexander@yahoo.com
-universidad tecnológica nacional	ingeniería mecánica	2020-11-09	carlos	chan	male	41	1619	garin	williamsjacob@yahoo.com
+universidad tecnológica nacional	ingeniería mecánica	2020-11-09	carlos	chan	male	42	1619	garin	williamsjacob@yahoo.com
 universidad tecnológica nacional	licenciatura en administración 	2021-01-02	cody	coleman	male	109	3081	cavour	francomonica@gmail.com
 universidad tecnológica nacional	licenciatura en administración 	2020-09-14	taylor	allen	female	18	8132	balneario chapalco	tyler30@hotmail.com
 universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-12-27	stacy	spears	female	36	3344	2 de julio	mannheather@yahoo.com
@@ -1000,7 +1000,7 @@ universidad tecnológica nacional	licenciatura en ciencias ambientales	2020-09-2
 universidad tecnológica nacional	licenciatura en psicología	2020-10-23	robin	baker	female	66	1661	bella vista	perkinsrobert@yahoo.com
 universidad tecnológica nacional	licenciatura en artes	2020-09-07	hayley	lawson	female	84	2315	estacion saguier	colonalfred@yahoo.com
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-11-18	michelle	patterson	female	96	1858	villa numancia	dawnwarner@hotmail.com
-universidad tecnológica nacional	licenciatura en sociología 	2020-12-16	kelly	reeves	female	16	1655	jose leon suarez	silvascott@yahoo.com
+universidad tecnológica nacional	licenciatura en sociología 	2020-12-16	kelly	reeves	female	17	1655	jose leon suarez	silvascott@yahoo.com
 universidad tecnológica nacional	farmacia	2020-12-02	jordan	bryant	female	104	1636	la lucila	wharris@yahoo.com
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-09-09	donna	lucas	female	80	9300	cañadon de las vacas	sellersrussell@gmail.com
 universidad tecnológica nacional	agronomía	2020-10-12	blake	pitts	male	47	3581	campo redondo	schneiderlindsey@gmail.com
@@ -1105,7 +1105,7 @@ universidad tecnológica nacional	licenciatura en ciencias de la computación	20
 universidad tecnológica nacional	farmacia	2021-01-07	anthony	mclean	male	35	4168	agua blanca	hsparks@hotmail.com
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2021-01-30	sara	christensen	female	60	7020	benito juarez	whitevincent@gmail.com
 universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2021-01-19	kim	kirk	female	73	8315	achico	lawrenceanita@yahoo.com
-universidad tecnológica nacional	licenciatura en ciencias de la educación 	2020-12-07	johnny	bush	male	105	3317	arroyo magdalena	stephenmassey@gmail.com
+universidad tecnológica nacional	licenciatura en ciencias de la educación 	2020-12-07	johnny	bush	male	106	3317	arroyo magdalena	stephenmassey@gmail.com
 universidad tecnológica nacional	licenciatura en ciencias biológicas	2020-12-19	mary	fisher	female	60	8402	dina huapi	iunderwood@hotmail.com
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-09-19	jason	jones	male	88	4117	alabama	gporter@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencia y tecnología de alimentos	2020-09-29	brandon	snow	male	36	1686	hurlingham	katherinesteele@yahoo.com
@@ -1142,7 +1142,7 @@ universidad tecnológica nacional	licenciatura en ciencias de la computación	20
 universidad tecnológica nacional	licenciatura en ciencias de la computación	2021-01-27	kevin	parker	male	21	5715	arbol verde	anthonyjillian@gmail.com
 universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2020-10-12	theresa	ortiz	female	100	5429	el abanico	stephensmichael@gmail.com
 universidad tecnológica nacional	contador público 	2020-12-16	evelyn	odom	female	26	2907	general conesa	davischarles@yahoo.com
-universidad tecnológica nacional	licenciatura en psicología	2020-09-26	jennifer	cross	female	111	3045	campo zavalla	elizabethchavez@hotmail.com
+universidad tecnológica nacional	licenciatura en psicología	2020-09-26	jennifer	cross	female	112	3045	campo zavalla	elizabethchavez@hotmail.com
 universidad tecnológica nacional	licenciatura en administración 	2020-12-06	kyle	jones	male	15	4134	acheral	lewisjohn@hotmail.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-11-13	jason	hunt	male	25	8336	gobernador duval	james03@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencias antropológicas	2021-01-14	laura	jackson	female	50	3150	algarrobitos 1ro	seanstone@gmail.com
@@ -1193,7 +1193,7 @@ universidad tecnológica nacional	licenciatura en ciencias de la computación	20
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-10-29	jeremy	hamilton	male	20	8520	aguada del loro	anthony11@gmail.com
 universidad tecnológica nacional	licenciatura en ciencia política 	2020-11-29	mr.	ryan	male	20	4707	chañarcito	patriciaroberts@yahoo.com
 universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-11-09	carmen	clarke	female	41	3267	cañada de las ovejas	josewilliams@yahoo.com
-universidad tecnológica nacional	ciencias veterinarias	2020-12-31	brett	clark	male	86	4145	ingenio la providencia	phylliscohen@hotmail.com
+universidad tecnológica nacional	ciencias veterinarias	2020-12-31	brett	clark	male	87	4145	ingenio la providencia	phylliscohen@hotmail.com
 universidad tecnológica nacional	agronomía	2020-10-11	scott	turner	male	116	7511	balneario oceano	amybanks@hotmail.com
 universidad tecnológica nacional	ingeniería en informática	2020-11-16	terri	forbes	female	55	5735	colonia bella vista	mendezmatthew@gmail.com
 universidad tecnológica nacional	diseño de imagen y sonido	2020-11-06	patricia	cooper	female	27	3401	arroyo pelon	jennifermiller@hotmail.com
@@ -1402,7 +1402,7 @@ universidad tecnológica nacional	licenciatura en administración 	2020-12-25	de
 universidad tecnológica nacional	actuario 	2020-09-03	robert	mcdaniel	male	115	4000	estacion de zootecnia b	zsims@hotmail.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-10-16	william	bradshaw	male	36	7630	hospital necochea	johnjackson@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias ambientales	2021-01-15	patrick	lynch	male	21	4101	agua negra	uperez@hotmail.com
-universidad tecnológica nacional	licenciatura en ciencias de la computación	2020-09-30	michael	miranda	male	36	5611	agua rica	tnicholson@hotmail.com
+universidad tecnológica nacional	licenciatura en ciencias de la computación	2020-09-30	michael	miranda	male	37	5611	agua rica	tnicholson@hotmail.com
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-10-10	monica	williams	female	32	1774	la salada	zimmermanbrandon@yahoo.com
 universidad tecnológica nacional	actuario 	2020-12-04	dana	orozco	female	35	3421	bajo guazu	gnelson@yahoo.com
 universidad tecnológica nacional	licenciatura en producción de bioimagenes	2021-01-27	jonathan	lin	male	22	3569	barros pazos	nicolebailey@hotmail.com
@@ -1437,7 +1437,7 @@ universidad tecnológica nacional	ciencias veterinarias	2021-01-27	timothy	price
 universidad tecnológica nacional	actuario 	2020-11-03	laura	matthews	female	15	2600	boca p 25	keithrodriguez@gmail.com
 universidad tecnológica nacional	actuario 	2020-09-06	kimberly	page	female	76	3027	la pelada	tsmith@hotmail.com
 universidad tecnológica nacional	licenciatura en producción de bioimagenes	2020-11-27	sharon	mosley	female	86	4166	balderrama	tanyadawson@yahoo.com
-universidad tecnológica nacional	técnico para bioterios 	2021-01-06	krystal	johnson	female	58	5442	ambas puntillas	hensleysusan@hotmail.com
+universidad tecnológica nacional	técnico para bioterios 	2021-01-06	krystal	johnson	female	59	5442	ambas puntillas	hensleysusan@hotmail.com
 universidad tecnológica nacional	licenciatura en ciencia política 	2020-10-23	rhonda	hansen	female	75	6383	campo moises seccion 1a	kyle54@yahoo.com
 universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2020-09-03	samantha	brandt	female	62	5710	la punta	smithmegan@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias de la computación	2020-10-09	eric	fisher	male	33	2124	22 de mayo	mollymcdonald@yahoo.com
@@ -1565,7 +1565,7 @@ universidad tecnológica nacional	técnico para bioterios 	2020-09-19	janice	sha
 universidad tecnológica nacional	licenciatura en sociología 	2020-10-01	reginald	castillo	male	50	2208	gaboto	robert69@yahoo.com
 universidad tecnológica nacional	licenciatura en kinesiología y fisiatría	2020-11-22	tonya	moss	female	79	3560	campo ubajo	david52@hotmail.com
 universidad tecnológica nacional	actuario 	2020-09-12	gerald	duarte	male	106	3400	bañado norte	oortiz@yahoo.com
-universidad tecnológica nacional	farmacia	2020-09-28	john	singleton	male	83	4155	cevil grande	lauriejones@gmail.com
+universidad tecnológica nacional	farmacia	2020-09-28	john	singleton	male	84	4155	cevil grande	lauriejones@gmail.com
 universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-11-24	charles	hudson	male	99	1761	20 de junio	elizabethjohnson@hotmail.com
 universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2020-09-06	steven	powell	male	57	2144	campo horquesco	richardssara@yahoo.com
 universidad tecnológica nacional	diseño de imagen y sonido	2020-09-10	david	thompson	male	40	3287	aldea san gregorio	pbell@hotmail.com
@@ -1581,7 +1581,7 @@ universidad tecnológica nacional	licenciatura en musicoterapia	2020-09-13	willi
 universidad tecnológica nacional	licenciatura en ciencia política 	2021-01-12	sheena	turner	female	12	4655	cabreria	sergiofrank@gmail.com
 universidad tecnológica nacional	licenciatura en ciencias antropológicas	2021-01-24	lisa	aguirre	female	82	2535	el trebol	angelica14@yahoo.com
 universidad tecnológica nacional	contador público 	2020-11-26	monica	boyd	female	80	5369	pagancillo	rcarter@gmail.com
-universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-09-07	andrew	erickson	male	98	5779	la chilca	juliangoodwin@hotmail.com
+universidad tecnológica nacional	licenciatura en planificación y diseño del paisaje	2020-09-07	andrew	erickson	male	99	5779	la chilca	juliangoodwin@hotmail.com
 universidad tecnológica nacional	ciencias veterinarias	2020-11-30	thomas	nelson	male	73	7220	funke	jamesmoses@hotmail.com
 universidad tecnológica nacional	ingeniería electrónica	2020-10-16	ruben	garcia	male	92	7517	juan e barra	kristina30@hotmail.com
 universidad tecnológica nacional	licenciatura en producción de bioimagenes	2020-10-06	michael	kennedy	male	72	3446	kilometro 374	lindsay99@gmail.com
@@ -1590,7 +1590,7 @@ universidad tecnológica nacional	licenciatura en producción de bioimagenes	202
 universidad tecnológica nacional	licenciatura en musicoterapia	2020-12-23	shannon	thompson	female	37	7545	huanguelen	wsims@yahoo.com
 universidad tecnológica nacional	licenciatura en artes	2020-11-11	jennifer	mendez	female	89	2915	aguirrezabala	catherinesmith@yahoo.com
 universidad tecnológica nacional	licenciatura en terapia ocupacional	2020-12-05	ryan	flores	male	96	2185	campo crenna	briannawalter@gmail.com
-universidad tecnológica nacional	licenciatura en ciencia política 	2020-11-19	chad	ritter	male	5	6343	los gauchos	scottbenjamin@hotmail.com
+universidad tecnológica nacional	licenciatura en ciencia política 	2020-11-19	chad	ritter	male	6	6343	los gauchos	scottbenjamin@hotmail.com
 universidad tecnológica nacional	licenciatura en gestión de agroalimentos	2020-11-13	kristin	heath	female	88	6212	adolfo van praet	tkaufman@yahoo.com
 universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2020-11-09	thomas	johnson	male	64	3263	1 de mayo	sarah35@gmail.com
 universidad tecnológica nacional	arquitectura	2020-12-09	heather	nelson	female	32	7536	estacion coronel pringles	arnoldjoseph@hotmail.com
@@ -1638,7 +1638,7 @@ universidad tecnológica nacional	actuario 	2020-11-17	jared	perez	male	23	3220	
 universidad tecnológica nacional	arquitectura	2021-01-22	ryan	johnson	male	28	5313	estacion mazan	ibrown@hotmail.com
 universidad tecnológica nacional	contador público 	2021-01-27	mr.	john	male	50	3197	abra guazu	evanszachary@gmail.com
 universidad tecnológica nacional	licenciatura en ciencias ambientales	2020-10-07	mary	elliott	female	4	6346	pellegrini	schwartzjenna@gmail.com
-universidad tecnológica nacional	licenciatura en sociología 	2020-09-04	jason	macdonald	male	60	3127	alcete	christophermoon@gmail.com
+universidad tecnológica nacional	licenciatura en sociología 	2020-09-04	jason	macdonald	male	61	3127	alcete	christophermoon@gmail.com
 universidad tecnológica nacional	medicina	2021-01-03	natalie	goodwin	female	33	5710	la punta	sandovalchristopher@yahoo.com
 universidad tecnológica nacional	licenciatura en psicología	2020-09-27	anthony	reilly	male	115	9021	colhue huapi	craigchapman@yahoo.com
 universidad tecnológica nacional	ingeniería mecánica	2020-09-17	jeremiah	gutierrez	male	60	3206	bella union paraje	nramos@gmail.com
@@ -1830,7 +1830,7 @@ universidad tecnológica nacional	licenciatura en ciencias biológicas	2021-01-2
 universidad tecnológica nacional	contador público 	2020-12-07	rita	mcdonald	female	79	2700	barrio trocha	sanderskelly@hotmail.com
 universidad tecnológica nacional	técnico para bioterios 	2020-09-20	linda	dawson	female	17	3515	capitan solari	joshuathomas@yahoo.com
 universidad tecnológica nacional	licenciatura en relaciones del trabajo 	2021-01-16	emily	rivera	female	33	1663	muñiz	jonesmichael@yahoo.com
-universidad tecnológica nacional	licenciatura en ciencias biológicas	2020-10-19	amber	bell	female	97	7631	costa bonita balneario	melanie00@yahoo.com
+universidad tecnológica nacional	licenciatura en ciencias biológicas	2020-10-19	amber	bell	female	98	7631	costa bonita balneario	melanie00@yahoo.com
 universidad tecnológica nacional	licenciatura en sociología 	2021-01-10	eric	martinez	male	107	7403	alvaro barros	patriciagraves@yahoo.com
 universidad tecnológica nacional	licenciatura en ciencias biológicas	2020-09-18	evan	gonzales	male	24	3536	bocas	qwelch@hotmail.com
 universidad tecnológica nacional	bioquímica	2020-09-25	donna	richardson	female	93	6346	pellegrini	joneschad@hotmail.com

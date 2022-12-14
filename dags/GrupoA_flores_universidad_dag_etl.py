@@ -2,9 +2,10 @@ import logging
 from airflow import DAG
 from airflow.decorators import task
 from datetime import datetime, timedelta
-from helper_functions import logger_setup
-from helper_functions.extracting import extraction
-from helper_functions.utils import *
+from plugins.helper_functions import logger_setup
+from plugins.helper_functions.extracting import extraction
+from plugins.helper_functions.utils import *
+from plugins.helper_functions.loader import *
 import pandas as pd
 import numpy as np
 import csv

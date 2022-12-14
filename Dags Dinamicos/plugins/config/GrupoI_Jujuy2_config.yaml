@@ -1,0 +1,5 @@
+university: "GrupoI_Jujuy2"
+db_conn: "alkemy_db"
+date_format: "%Y-%m-%d"
+aws_conn: "aws_s3_bucket"
+dest_bucket: "alkemy26"
