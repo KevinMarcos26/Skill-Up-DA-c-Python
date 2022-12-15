@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 
 # Diccionario con argumentos por defecto para pasar al DAG
 default_args = {
-    'owner': 'Fabian Manrique',
+    'owner': 'Airflowneta',
     'start_date': datetime(2022, 12, 1),
     'retries': 5,
     'retry_delay': timedelta(seconds=10),
